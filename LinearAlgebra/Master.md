@@ -938,15 +938,7 @@ $$
 Could reason the eigenvalue for $\lambda^{-}$ by the fact that eigenvalues and their eigenvectors come in complex conjugate pairs.
 
 # Inner Product, Length, Orthogonality
-### Dot Product
-- $\vec{u} \cdot \vec{v} = \vec{u}^{T} \vec{v}$
-- $\vec{u} \cdot \vec{v} = \vec{v} \cdot \vec{u}$
-- $(\vec{u} + \vec{v}) \cdot \vec{w} = \vec{u} \cdot \vec{w} + \vec{v} \cdot \vec{w}$
-- $(c\vec{u}) \cdot \vec{v} = c(\vec{u} \cdot \vec{w})$
-- $||c\vec{v}|| = |c|\ ||\vec{v}||$
-- $\vec{u} \cdot \vec{u} \geq 0$
-- $\vec{u} \cdot \vec{u} = ||\vec{u}||^2$
-- $\vec{a} \cdot \vec{b} = |a||b|\ cos\theta$
+### [[Dot Product]]
 ### Length
 $||\vec{u}|| = \sqrt{\vec{u} \cdot \vec{u}} = \sqrt{u^{2}_{1} + \cdots + u^{2}_n}$
 ### Orthogonality
