@@ -1,0 +1,1 @@
+A [[Linear Differential Equation]] not satisfied by $y = 0$

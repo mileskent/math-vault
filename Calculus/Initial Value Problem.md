@@ -1,0 +1,1 @@
+A problem where a [[Differential Equation]] is given with an initial value, allowing an [[Explicit Solution]] for the function.

@@ -95,7 +95,6 @@ A^k = PD^k P^{-1} = [\vec{v_1}\ \vec{v_2}]
 [A^k\ \vec{x}_0]_{\mathcal{B}} =\ ?
 }
 $$
-#todo
 
 #### Misc.
 $$

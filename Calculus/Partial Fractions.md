@@ -12,3 +12,9 @@ $$
 $$
 \boxed{\frac{5x+3}{(x+1)(x+2)} = \frac{-2}{x+1} + \frac{7}{x+2}}
 $$
+
+
+For partial fractions, if you have a repeated factor such as $(x-a)^n$ in the denominator, you must have degrees 1 through $n$ in your partial fraction sum.
+$$
+\frac{\cdots}{\cdots (x-a)^n} = \cdots + \sum_{i=1}^{n} \frac{c_i}{(x-a)^i}
+$$
