@@ -1,4 +1,5 @@
 An [[Equation]] in which the unknowns are functions. Solve for $y(t)$ in the below. 
+
 $$
 y'(t) = 3y(t) + t^3
 $$
@@ -20,13 +21,16 @@ The order of a differential equation is the maximum derivative degree of the fun
 ## Exponential Change
 ### Example 1
 Population
+
 $$
 y' = ky \iff y(t)=y_0e^{kt}
 $$
+
 where $k$ is the net rate of change [per capita](https://en.wikipedia.org/wiki/Per_capita)
 
 ## Example 2
 [Thermal Exchange](https://www.sciencefacts.net/newtons-law-of-cooling.html)
+
 $$
 T'(t) = -k(T(t) - T_\text{ambient})
 \iff
