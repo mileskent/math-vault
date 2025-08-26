@@ -1,10 +1,28 @@
 ![[Pasted image 20250821161038.png]]
 
 $$
-\vec{a} \times \vec{b} = \left(|a||b|\sin(\theta) \right)\ \vec{n}
+\vec{a} \times \vec{b} = \left(|a||b|\sin(\theta) \right)\ \vec{n} = \vec{c}
 $$ 
 where $\vec{n}$ is the unit normal vector of the  plane described by $\vec{a}$ and $\vec{b}$
 Direction of $\vec{c}$ according to right hand rule
-$|\vec{a} \times \vec{b}| = |a||b|\sin(\theta)$ is the area of the the parallelogram formed by $\vec{a}$ and $\vec{b}$
-$|\vec{a} \times \vec{b}| = |a||b|\sin(\theta) \implies \vec{a} \parallel \vec{b} \iff \vec{a} \times \vec{b} = \vec{0}$
 
+# Properties
+
+$$
+\begin{align}
+\vec{a} \times \vec{b} &= -(\vec{b} \times \vec{a}) \\
+
+\vec{a} \times (\vec{b} + \vec{c}) &= \vec{a} \times \vec{b} + \vec{a} \times \vec{c}
+ \\
+(\vec{a} + \vec{b}) \times \vec{c} &= \vec{a} \times \vec{c} + \vec{b} \times \vec{c}
+ \\
+(C \vec{a}) \times \vec{b} = \vec{a} \times (C \vec{b}) &= C(\vec{a} \times \vec{b})
+ \\
+\vec{a} \times (\vec{b} \times \vec{c}) &= \vec{b} \times (\vec{c} \times \vec{a}) = \vec{c} \times (\vec{a} \times \vec{b}) 
+\end{align}
+$$
+
+# Magnitude
+$$
+\underbrace{|\vec{a} \times \vec{b}| = |a||b|\sin(\theta)}_{\text{Area}(▰_{a,b})}\implies \vec{a} \parallel \vec{b} \iff \vec{a} \times \vec{b} = \vec{0}
+$$ 
