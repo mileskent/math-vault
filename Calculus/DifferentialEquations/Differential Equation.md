@@ -17,19 +17,50 @@ The order of a differential equation is the maximum derivative degree of the fun
 [[Separable Differential Equation#Separation of Variables]]
 
 # Special Examples
-## Exponential Change
-### Example 1
-Population
+## Population
 $$
 y' = ky \iff y(t)=y_0e^{kt}
 $$
 where $k$ is the net rate of change [per capita](https://en.wikipedia.org/wiki/Per_capita)
 
-## Example 2
-[Thermal Exchange](https://www.sciencefacts.net/newtons-law-of-cooling.html)
+## [Newton's Law of Cooling](https://www.sciencefacts.net/newtons-law-of-cooling.html)
 $$
 T'(t) = -k(T(t) - T_\text{ambient})
 \iff
 T(t)=(T_0  -  T_\text{ambient})e^{-kt} +  T_\text{ambient}
 $$
 
+## Well Stirred Solution
+#todo
+
+## Basketball
+#todo
+
+# Maximum Interval of Existence
+The maximal interval of existence refers to the largest interval over which a solution to an initial value problem (IVP) of a differential equation is defined and unique.
+
+## Case 1
+For both [[Linear Differential Equation]] and [[Nonlinear Differential Equation]], if $f(t,y)$ has discontinuities, solutions for $y(t)$ may not exist beyond the discontinuities of $f$, and the $t$ intervals of existence have become limited.
+$$
+\frac{dy}{dt} = f(t,y) = \frac{t-y}{t-7}
+$$
+General Solution
+$$
+y(t) = \frac{t^2 + C}{2(t-7)}
+$$
+
+| (t,y(t)) | Maximal Interval of Existence |
+| -------- | ----------------------------- |
+| (-6,2)   | $(-\infty, 7)$                |
+| (11,10)  | $(7, \infty)$                 |
+ Basically, the given point determines $C$, and depending on what $C$ is, the [[#Maximum Interval of Existence]] of the solution changes.
+
+## Case 2
+For some [[Nonlinear Differential Equation]], even if $f(t,y)$ is differentiable everywhere, solutions for $y(t)$ may not exist beyond some limited $t$ intervals.
+$$
+\frac{dy}{dt} = \frac{y^2}{6}
+$$
+$$
+y(t) = \frac{-6}{t+C}
+$$
+The [[#Maximum Interval of Existence]] follows the same pattern here. The point of case 2 is that even if your starting equation is continuous everywhere, your solution may not be, thus limiting the domain of $t$
