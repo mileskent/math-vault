@@ -4,6 +4,8 @@ f(t) \cdot y^{(n)}(t)
 $$
 Note that $y^{(n)}(t)$ is the $n^\text{th}$ derivative of $y(t)$ in Lagrange notation.
 
+ Linear equations can usually be solved completely and explicitly
+
 | Linear                        | Nonlinear           |
 | ----------------------------- | ------------------- |
 | $y'+2y=0$                     | $y'+y^2 = 0$        |
