@@ -702,61 +702,15 @@ $$
 det A = $a_{1j}C_{1j} + ... + a_{nj} C_{nj}$
 For +/- use pattern of current matrix in Q, not the og
 
-# Eigenvectors, Eigenvalues, and Eigenspaces
-### Eigenvectors and Eigenvalues
-Given
-1. A is square
-2. $A\vec{v}$ defined, e.g. if $A \in \mathbb{R}^{n\times n}$ then $\vec{v} \in \mathbb{R}^n$
-$$
-A\vec{v} = \lambda\vec{v}
-$$
-1. $\vec{v}$ is an **eigenvector** for $A$
-2. $\lambda$ is the corresponding **eigenvalue** ($\lambda\in \mathbb{C}$)
-An eigenvector is a vector solution $\vec{v}$ to the above equation, such that the linear transformation of $A$ has the same result as scaling the vector by $\lambda$.
+![[Eigenvectors, Eigenvalues, and Eigenspaces]]
 
-Furthermore:
-$A\vec{v} = \lambda \vec{v}$
-$A\vec{v} - \lambda \vec{v}= 0$
-$A\vec{v} - \lambda \vec{v}= 0$
-$A\vec{v}-\lambda I(\vec{v})=0$
-$(A-\lambda I)\vec{v}=0$
-You can solve for $\lambda$ using in augmented matrix with this form
 
-Notes:
-- $\lambda > 0 \implies A\vec{v}, \vec{v}$ point same direction
-- $\lambda < 0 \implies A\vec{v}, \vec{v}$ point opposite direction
-- $\lambda$ can be complex even if nothing else in the equation is
-- ***Eigenvalues cannot be determined from the reduced version of a matrix*** #star
-	- i.e. row reductions change the eigenvalues of a matrix
-- The diagonal elements of a triangular matrix are its eigenvalues.
-- A invertible iff 0 is not an eigenvalue of A.
-- Stochastic matrices have an eigenvalue equal to 1.
-- If $\vec{v}_1 , \vec{v}_2, . . . , \vec{v}_k$ are eigenvectors that correspond to distinct eigenvalues, then $\vec{v}_1 , \vec{v}_2, . . . , \vec{v}_k$ are linearly independent
-### Eigenspaces
-* the span of the eigenvectors that correspond to a particular eigenvalue
-- $Nul(A-\lambda I)$
 
-# Characteristic Equation
-$det(A-\lambda I) = 0$ to get values for $\lambda$. Recall $det(T)=0$ means noninvertible. If a matrix isn't invertible, then we won't get trivial solutions when solving. Also the idea of reducing the dimension through the transformation is relevant; squishing the basis vectors all onto the same span where the area/volume is 0. Recall eigenvectors remain on the same span despite a linear transformation.
+![[Characteristic Equation]]
 
-$\lambda$ is an eigenvalue of A $\iff$ $(A-\lambda I)$ is singular
 
-trace of a Matrix $tr(M)$ is the sum of diagonal
 
-### Characteristic Polynomial
-$det(A-\lambda I)$
-n degree polynomial -> n roots -> maximum n eigenvalues (could be repeated)
-![[Pasted image 20241007112930.png|400]]
-
-### Algebraic Multiplicity
-Algebraic multiplicity of an eigenvalue is how many times an eigenvalue repeatedly occurs as the root of the characteristic polynomial.
-
-### Geometric Multiplicity
-- Geometric multiplicity of an eigenvalue is the number of eigenvectors associated with an eigenvalue; $dim(Nul(A-\lambda I))$, which is saying how many eigenvector solutions does this eigenvalue have (recall $dim(B)$ is number of free vars in $B$)
-
-## Similarity
-1. square A,B are similar $\iff$ we can find P so that $A = PBP^{-1}$
-2. A,B similar $\implies$ same characteristic polynomial $\implies$ same eigenvalues
+![[Similar]]
 # Markov chains
 Stochastic matrix
 - Matrix that uses the rates/probabilities

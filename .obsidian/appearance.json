@@ -3,6 +3,7 @@
   "interfaceFontFamily": "",
   "textFontFamily": "NewComputerModern Math",
   "enabledCssSnippets": [
+    "img-grid",
     "obsidian"
   ]
 }

@@ -13,6 +13,16 @@ img {
     margin-left: auto !important;
     margin-right: auto !important;
 }
+.image-captions-figure {
+    display: block !important;
+    margin-left: auto !important;
+    margin-right: auto !important;
+}
+.image-captions-caption {
+    display: block !important;
+    margin-left: auto !important;
+    margin-right: auto !important;
+}
 
 .markdown-source-view.mod-cm6 .cm-content > * {
     margin: auto auto !important;

@@ -2,5 +2,9 @@
   "webpage-html-export",
   "obsidian-latex-suite",
   "obsidian-git",
-  "obsidian-underline"
+  "obsidian-underline",
+  "obsidian-matrix",
+  "short-internal-links-to-headings",
+  "image-captions",
+  "obsidian-columns"
 ]
