@@ -1,7 +1,7 @@
 ![[Pasted image 20250821161038.png]]
 
 $$
-\vec{a} \times \vec{b} = \left(|a||b|\sin(\theta) \right)\ \vec{n} = \vec{c}
+*\vec{a} \times \vec{b} = \left(|a||b|\sin(\theta) \right)\ \vec{n} = \vec{c}*
 $$ 
 where $\vec{n}$ is the unit normal vector of the  plane described by $\vec{a}$ and $\vec{b}$
 Direction of $\vec{c}$ according to right hand rule

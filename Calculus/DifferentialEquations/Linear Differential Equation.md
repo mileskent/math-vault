@@ -4,6 +4,8 @@ f(t) \cdot y^{(n)}(t)
 $$
 Note that $y^{(n)}(t)$ is the $n^\text{th}$ derivative of $y(t)$ in Lagrange notation.
 
+ Linear equations can usually be solved completely and explicitly
+
 | Linear                        | Nonlinear           |
 | ----------------------------- | ------------------- |
 | $y'+2y=0$                     | $y'+y^2 = 0$        |
@@ -11,5 +13,46 @@ Note that $y^{(n)}(t)$ is the $n^\text{th}$ derivative of $y(t)$ in Lagrange not
 | $y'+t^3y=0$                   | $y'+ty^3 = 0$       |
 | $t^2 y''' - \cos(t)y''+y = 0$ | $y''+3yy'=7\cos(t)$ |
 
-# See also
-[[First Order Linear Differential Equation]]
+# First Order
+A [[Linear Differential Equation]] of [[Differential Equation#Order|Order]] 1. We are assuming it to be a [[Ordinary Differential Equation]].
+## Homogeneity
+### [[Nonhomogenous Differential Equation]]
+$$
+\boxed{\frac{dy}{dt} + a(t)\ y = b(t)}  \quad \quad \text{Nonhomogenous}\\
+$$
+**Solution Method**
+* [[#Integrating Factor]]
+* [[Separable Differential Equation#Separation of Variables]]
+**General Solution**
+$$
+y(t) = Cy_{1}(t)
+$$
+where $C$ is a free parameter
+where $y_1(t)$ is a nonzero solution
+### [[Homogeneous Differential Equation]]
+$$
+\boxed{\frac{dy}{dt} + a(t)\ y = 0} \quad \quad \text{Homogenous}
+$$
+**Solution Method**
+* [[#Integrating Factor]]
+**General Solution**
+$$
+y(t) = y_{p}(t) + Cy_{1}(t)
+$$
+
+where $y_p(t)$ is a particular solution of the nonhomogeneous equation
+where $C$ is a free parameter
+where $y_1(t)$ is the "complementary solutions" of the corresponding homogenous equation
+
+## Integrating Factor
+This method only works for [[First Order Linear Differential Equation]], and the coefficient of the derivative must be 1. Works for both [[Homogeneous Differential Equation]] and [[Nonhomogenous Differential Equation]]. This example will use [[Nonhomogenous Differential Equation]].
+$$
+\begin{align}
+\frac{dy}{dt} + a(t)\ y = b(t) \\
+\text{Let } A'(t) = a(t) \quad \text{Let } e^{A(t)}y \text{ be the integrating factor}\\
+e^{A(t)}y\ \frac{dy}{dt} + e^{A(t)}y\ a(t)\ y = e^{A(t)}y\ b(t) \\
+\frac{d}{dt} \left(e^{A(t)}y \right) = e^{A(t)}y\ b(t) \\
+e^{A(t)}y = \int e^{A(t)}y\ b(t)\ dt \\
+y = e^{-A(t)} \int e^{A(t)}y\ b(t)\ dt + Ce^{-A(t)}\\
+\end{align}
+$$
