@@ -1,4 +1,4 @@
- ![[Pasted image 20250826130328.png]]
+ ![[Pasted image 20250826130328.png|300]]
 > Standard basis vectors **i**, **j**, **k** and vector components of **a**, denoted here **a**x, **a**y, **a**z
 
 If $(\mathbf{\color{blue}{i}}, \mathbf{\color{red}{j}}, \mathbf{\color{green}{k}})$ is a positively oriented [[orthonormal basis]], the basis vectors satisfy the following equalities:
