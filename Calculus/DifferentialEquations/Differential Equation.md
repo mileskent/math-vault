@@ -17,11 +17,25 @@ The order of a differential equation is the maximum derivative degree of the fun
 [[Separable Differential Equation#Separation of Variables]]
 
 # Special Examples
-## Population
+## Population Dynamics
+### Linear Model
 $$
-y' = ky \iff y(t)=y_0e^{kt}
+y' = ry \iff y(t)=y_0e^{rt}
 $$
 where $k$ is the net rate of change [per capita](https://en.wikipedia.org/wiki/Per_capita)
+
+### Nonlinear Logistic Model
+Do not assume growth rate $g$ to be constant, but that it depends on $y$
+Assume that when $y \approx 0, g \approx r > 0$
+Assume that when $y \approx k, g < 0$
+Where $r$ is the intrinsic rate
+Where $k$ is the carrying capacity 
+$$
+g = r\left( 1-\frac{y}{k} \right)
+$$
+$$
+y=\frac{Ky_{0}}{y_{0}+(k-y_{0})\exp(-rt)}
+$$
 
 ## [Newton's Law of Cooling](https://www.sciencefacts.net/newtons-law-of-cooling.html)
 $$
