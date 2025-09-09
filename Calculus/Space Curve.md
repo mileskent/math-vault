@@ -1,0 +1,17 @@
+A curve in space.
+
+# Unit Tangent Vector
+$$
+\vec{T}(t) = \frac{\vec{r}'(t)}{\lVert \vec{r}'(t) \rVert}
+\quad,\quad
+\vec{T}(s) = \vec{r}'(s) \quad\quad \left(\lVert \vec{r}'(s) \rVert = 1\right)
+$$
+where $s$ is [[Arc Length]], $t$ is any parameter
+# Unit Normal Vector
+Also known as "principal unit normal"
+$$
+\vec{N}(s) = \frac{\vec{T}'(s)}{\lVert \vec{T}'(s) \rVert}
+\quad \quad
+\vec{N}(t) = \frac{\vec{T}'(t)}{\lVert \vec{T}'(t) \rVert}
+$$
+where $s$ is [[Arc Length]], $t$ is any parameter
