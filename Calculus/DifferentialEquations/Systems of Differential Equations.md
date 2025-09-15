@@ -81,5 +81,11 @@ where $\exp(\lambda_{1} t)\vec{u}_{1}$ is a complex solution to the system
 where $\alpha = \mathrm{Re} \lambda_{1}$ gives the growth/decay rate
 where $\beta = \mathrm{Im} \lambda_{1}$ is the frequency of the oscillation of the system
 
+When finding eigenvectors, for $A \in \mathbb{C}^{2 \times 2}$ and $\det A \not = 0$, ignore the second row, because it can be eliminated by definition. See [[#Misc]].
+When you get $\lambda = \alpha \pm \beta i$, you can use either eigenvalue-eigenvector pair for the general equation. They will both give you the same solution, as the sign change will get absorbed in the $C$s
 ### Stability and Phase Portrait
+Apply matrix $A$ once, to get the initial velocity, to determine the direction of rotation
+$\exp \alpha t$ scales the whole solution
 ![[Pasted image 20250912163741.png|400]]
+# Misc
+* $(\det A \not = 0 \iff\text{lin. indep.}) \implies\text{Equilibrium only @ } \vec{0}$
