@@ -51,7 +51,7 @@ $$
 #todo
 
 # Maximum Interval of Existence
-The maximal interval of existence refers to the largest interval over which a solution to an initial value problem (IVP) of a differential equation is defined and unique.
+The maximal interval of existence refewrs to the largest interval over which a solution to an initial value problem (IVP) of a differential equation is defined and unique.
 
 ## Case 1
 For both [[Linear Differential Equation]] and [[Nonlinear Differential Equation]], if $f(t,y)$ has discontinuities, solutions for $y(t)$ may not exist beyond the discontinuities of $f$, and the $t$ intervals of existence have become limited.
