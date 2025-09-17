@@ -89,3 +89,4 @@ $\exp \alpha t$ scales the whole solution
 ![[Pasted image 20250912163741.png|400]]
 # Misc
 * $(\det A \not = 0 \iff\text{lin. indep.}) \implies\text{Equilibrium only @ } \vec{0}$
+* Decaying eigenvector scalars decay the eigenspace, growing ones grow the whole eigenspace. 
