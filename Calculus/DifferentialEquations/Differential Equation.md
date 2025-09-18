@@ -8,6 +8,7 @@ $$
 [[Linear Differential Equation]]
 [[Homogeneous Differential Equation]]
 [[Separable Differential Equation]]
+[[Systems of Differential Equations]]
 # Properties
 ## Order
 The order of a differential equation is the maximum derivative degree of the function of interest, e.g. $y(t)$, in the equation. 
