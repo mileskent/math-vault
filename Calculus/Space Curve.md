@@ -15,3 +15,8 @@ $$
 \vec{N}(t) = \frac{\vec{T}'(t)}{\lVert \vec{T}'(t) \rVert}
 $$
 where $s$ is [[Arc Length]], $t$ is any parameter
+
+# Misc
+![[Pasted image 20250922125004.png|400]]
+Unit normal vector and unit tangent vector are always perpendicular to each other.
+Unit normal vector is always normal to the curve. Unit tangent vector is always tangent to the curve, so their perpness is a natural consequence.
