@@ -21,7 +21,7 @@ $$
 \end{alignat}
 $$
 
-The anticommutativity of the cross product (and the obvious lack of [[Master#Linear Independence|Linear Independence]]) also implies that:
+The anticommutativity of the cross product (and the obvious lack of [[Linear Algebra#Linear Independence|Linear Independence]]) also implies that:
 
 $$
 \mathbf{\color{blue}{i}}\times\mathbf{\color{blue}{i}} = \mathbf{\color{red}{j}}\times\mathbf{\color{red}{j}} = \mathbf{\color{green}{k}}\times\mathbf{\color{green}{k}} = \mathbf{0}

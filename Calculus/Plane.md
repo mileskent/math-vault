@@ -12,7 +12,7 @@ where $\langle a, b, c \rangle = \vec{n}$ is normal to the plane
 # Determining the Plane
 A plane can be determined by
 1. 3 points in  $\mathbb{R}^3$
-2. A point & 2 [[Master#Linear Independence|Linearly Independent]] vectors $||$ to the plane
+2. A point & 2 [[Linear Algebra#Linear Independence|Linearly Independent]] vectors $||$ to the plane
 3. Linear Equation: e.g. $3x - 2y + z = 4$
 4. A point & a normal vector $\vec{n}$
 
