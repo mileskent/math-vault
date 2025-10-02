@@ -56,3 +56,68 @@ e^{A(t)}y = \int e^{A(t)}y\ b(t)\ dt \\
 y = e^{-A(t)} \int e^{A(t)}y\ b(t)\ dt + Ce^{-A(t)}\\
 \end{align}
 $$
+
+# Second Order
+### Homogenous with Constant Coefficients
+$$
+ay'' + by' + cy = 0
+$$
+Specifically with this form
+Recall that we know how to solve [[2D Homogeneous Linear Systems with Constant Coefficients]]
+$$
+\begin{bmatrix}
+x_1 \\
+x_2
+\end{bmatrix}' = A
+\begin{bmatrix}
+x_1 \\
+x_2
+\end{bmatrix}
+$$
+Let $x_{1} = y,\ x_{2}=y'$
+$$
+\begin{bmatrix}
+y \\
+y'
+\end{bmatrix}' = A
+\begin{bmatrix}
+y \\
+y'
+\end{bmatrix}
+$$
+$$
+\begin{bmatrix}
+y' \\
+y''
+\end{bmatrix} = A
+\begin{bmatrix}
+y \\
+y'
+\end{bmatrix}
+$$
+So if we can find [[Linear Combination]] of y and y' that yield y' and y'', then we have transformed our 2nd order, 1 dimensional ODE into a 1st order, 2 dimensional ODE.
+Well we can do this.
+$y' = 0 \cdot y + 1 \cdot y'$
+$y'' = -\frac{c}{a}y -\frac{b}{a}y'$
+$$
+\begin{bmatrix}
+y' \\
+y''
+\end{bmatrix} =
+\begin{bmatrix}
+0 & 1 \\
+-\frac{c}{a} & -\frac{b}{a}
+\end{bmatrix}
+\begin{bmatrix}
+y \\
+y'
+\end{bmatrix}
+$$
+Great! Now we can solve this. When you're done you can just use the first component of the vector solution and you will get $y(t)$
+
+Also...
+The [[Characteristic Equation]] for this system looks very similar to the initial equation for $a = 1$
+$$
+y'' +by'+cy = 0 \quad \implies \quad \lambda^2 + b\lambda+c=0
+$$
+But you can just do it the normal way too if you want.
