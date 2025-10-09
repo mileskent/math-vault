@@ -19,3 +19,6 @@ A plane can be determined by
 > [!tip]
 > * The normal vector of a plane and the plane's equation are bidirectionally derivable
 > * $✈️_{A}\ ||\ ✈️_{B} \iff \vec{n}_{A}\ ||\  \vec{n}_{B}$
+
+# See Also
+[[Tangent Plane]]

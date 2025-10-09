@@ -13,6 +13,3 @@ in 1 dimension this simplifies to the more familiar linearization formula:
 $$
 f(x) \approx f(a) + f'(a)(x-a) = L(x)
 $$
-$$
-
-$$
