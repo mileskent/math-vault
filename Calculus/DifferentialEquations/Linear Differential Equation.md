@@ -121,3 +121,16 @@ $$
 y'' +by'+cy = 0 \quad \implies \quad \lambda^2 + b\lambda+c=0
 $$
 But you can just do it the normal way too if you want.
+
+[[2D Homogeneous Linear Systems with Constant Coefficients#Distinct Real & Nonzero Eigenvalues]]
+$$
+y(t) = C_{1}\exp(\lambda_{1} t) + C_{2}\exp(\lambda_{2} t)
+$$
+[[2D Homogeneous Linear Systems with Constant Coefficients#Repeated Real Eigenvalues]]
+$$
+y(t) = C_{1} \exp(\lambda t) + C_{2}\ t \exp(\lambda t)
+$$
+[[2D Homogeneous Linear Systems with Constant Coefficients#Complex Eigenvalues]]
+$$
+y(t) = \exp(\alpha t)\left(C_{1}\cos(\beta t) + C_{2}\sin(\beta t)\right)
+$$

@@ -36,6 +36,7 @@ If an initial condition is given, then there is a unique solution.
 > ![[Pasted image 20250905180026.png|$\lambda_{1} > 0\ \ \lambda_{2} < 0 \implies$ Saddle, Unstable]]
 
 ## A Zero Eigenvalue
+This is a specific case of the previous section.
 This is the same as the previous section [[#Distinct Real & Nonzero Eigenvalues]], except
 We assume $\lambda = \lambda_{1}, \lambda_{2},\text{WLOG } \lambda_{1}=0, \lambda_{2} \not = \lambda_{1}$, which implies
 $$
