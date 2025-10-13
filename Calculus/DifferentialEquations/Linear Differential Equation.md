@@ -134,3 +134,6 @@ $$
 $$
 y(t) = \exp(\alpha t)\left(C_{1}\cos(\beta t) + C_{2}\sin(\beta t)\right)
 $$
+
+### Spring Mass Problem
+![[Pasted image 20251013151429.png|400]]
