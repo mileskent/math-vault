@@ -3,6 +3,20 @@ Let $f(x, y)$ be defined on a region containing the point $(a,b)$
 * $f(a,b)$ is a <u>local max</u> of $f$ if $f(a,b) \geq f(x, y)$ for all domain points $(x,y)$ in a disk centered at $(a,b)$
 * $f(a,b)$ is a <u>local min</u> of $f$ if $f(a,b) < f(x, y)$ for all domain points $(x,y)$ in a disk centered at $(a,b)$
 
+# Global
+Let $f(x, y)$ be defined on a region containing the point $(a,b)$
+* $f(a,b)$ is a <u>global max</u> of $f$ if $f(a,b) \geq f(x, y)$ for all $(x,y)$ in the domain of $f$
+* $f(a,b)$ is a <u>global min</u> of $f$ if $f(a,b) < f(x, y)$ for all $(x,y)$ in the domain of $f$
+
+> [!info] Theorem
+On a [[Region#Closed]] and [[Region#Bounded]] [[Region|Domain]], any continous function $f$ attains a global minimum and maximum
+
+> [!tip] Strategy for finding global extrema
+Let $f = f(x,y)$, domain $R$ be closed and bounded.
+> 1. Find all critical points of $f$ inside $R$, and on the [[Region#Boundary]] of $R$
+> 2. Evaluate $f$ at each critical point, as well as any endpoints of the boundary
+> 3. The smallest value found is the global minimum; the largest is the global maximum
+
 # Critical Point
 An extremum or saddle point.
 Given $f(x,y)$, a point $(a,b)$ in the domain of $f$ is called a <u>Critical Point</u> when 
@@ -15,7 +29,7 @@ $$
 $$
 \nabla f(a,b) = \text{DNE}\iff Df(a,b) =\text{DNE}
 $$ 
-## Second Derivative Test
+# Second Derivative Test
 This is for classification of critical points
 Suppose $(a, b)$ is a critical point of $f(x, y)$ and $f$ has continuous second partial derivatives. Then we have:
 - If $\det(H_f(a, b)) > 0$ and $f_{xx}(a, b) > 0$, then $f(a, b)$ is a **local minimum**.  
