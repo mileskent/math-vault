@@ -46,3 +46,9 @@ More generally, if $f : \mathbb{R}^n \to \mathbb{R}$ has a critical point at $P$
 - If some eigenvalues of $H_f(P)$ are positive and some are negative, $f$ is concave up in some directions from $P$ and concave down in others, so has neither a local minimum nor maximum at $P$.
 - If all eigenvalues of $H_f(P)$ are positive or zero, $f$ may have either a local minimum or neither at $P$.
 - If all eigenvalues of $H_f(P)$ are negative or zero, $f$ may have either a local maximum or neither at $P$.
+
+# Constraints of Equality
+The *Objective Function* (the function containing the extrema) can be constrained by constraint function(s)
+* For some simple problems you can just use substitution.
+* For for complicated problems, the method of [[Lagrange Multipliers]] can be used to convert it into an unconstrained problem whose number of variables is the original number of variables plus the original number of equality constraints.
+![[Lagrange Multipliers]]
