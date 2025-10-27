@@ -34,6 +34,7 @@ $$
 \quad\quad
 \cos(t) = \frac{1}{2} (e^{it} + e^{-it})
 $$
+Also recall ![[Euler's Identity]]
 Plug that term into the original equation to solve for undetermined coefficients.
 **Step 3:** 
 $$

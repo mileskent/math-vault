@@ -1,0 +1,1 @@
+A type of transform that maps a functionfrom its original function space into another function space via integration, where some of the properties of the original function might be more easily characterized and manipulated than in the original function space. The transformed function can generally be mapped back to the original function space using the _inverse transform_.
