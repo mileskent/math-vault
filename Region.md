@@ -11,7 +11,7 @@ As opposed to Open.
 # Bounded
 The region has finite size.
 
-# Horizontally Simple
+# Vertically Simple
 (Type 1 Region)
 A region bounded by the vertical lines $x = a$ and $x = b$, and the curves $y = g(x)$ and $y = h(x)$, where $g(x) < h(x)$ and $a<b$
 $$
@@ -19,7 +19,7 @@ $$
 $$
 ![[Pasted image 20251024004600.png|300]]
 
-# Vertically Simple
+# Horiztonally Simple
 (Type 2 Region)
 A region bounded by the horizontal lines $y = c$ and $y = d$, and the curves $x = g(y)$ and $x = h(y)$, where $g(y) < h(y)$ and $c<d$
 $$
