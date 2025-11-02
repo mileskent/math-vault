@@ -16,7 +16,9 @@ f_1(x_1,\cdots,\ x_n) \\
 f_m(x_1,\cdots,\ x_n))
 \end{bmatrix}
 $$
-
+$$
+f:\mathbb{R}^n \rightarrow \mathbb{R}^m \implies Df \in \mathbb{R}^{m \times n}
+$$
 # Examples
 $$
 f(x) \quad \implies \quad Df = [f_{x}]
