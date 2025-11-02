@@ -2,6 +2,7 @@ $A \in \mathbb{R}^{n \times n} \land A = PDP^{-1} \implies A$ is diagonalizable,
 
 $A$ is diagonalizable $\iff$ $A$ has $n$ linearly independent eigenvectors.
 i.e.
+
 $$
 \displaylines{
 A = PDP^{-1}\\ \iff \\ A = [\vec{v_1}, ..., \vec{v_n}] 
@@ -13,6 +14,7 @@ A = PDP^{-1}\\ \iff \\ A = [\vec{v_1}, ..., \vec{v_n}]
 [\vec{v_1}, ..., \vec{v_n}]^{-1}
 }
 $$
+
 where $\vec{v}$ vectors are linearly independent eigenvectors, and $\lambda_1, ..., \lambda_n$ are the corresponding eigenvalues, in order.
 
 #### Distinct Eigenvalues
@@ -21,6 +23,7 @@ If $A \in \mathbb{R}^{n \times n}$ and has $n$ distinct eigenvalues, then $A$ is
 #### Non-distinct Eigenvalues
 You check that the sum of the geometric multiplicities is equal to the size of the matrix.
 e.g. for
+
 $$
 \begin{bmatrix}
 1 &  & -1 \\
@@ -28,7 +31,9 @@ $$
  &  & 1
 \end{bmatrix}
 $$
+
 Find the eigenvalues:
+
 $$
 \displaylines{
 \begin{vmatrix}
@@ -39,8 +44,10 @@ $$
 \therefore \lambda = 1,1,2
 }
 $$
+
 We know that geomult <= algmult. Therefore $\lambda = 2$ has 1 distinct eigenvector.
 This means $\lambda = 1$ has to have 2 distinct eigenvectors to form a basis, so if it doesn't then the matrix is not diagonalizable.
+
 $$
 A - I = \begin{bmatrix}
 0 &  & -1 \\
@@ -48,6 +55,7 @@ A - I = \begin{bmatrix}
  &  & 0
 \end{bmatrix}
 $$
+
 There is only one free columns here. Therefore, the dimension of the Nullspace is one, not two, which means the matrix is not diagonalizable.
 
 #### Basis of Eigenvectors
