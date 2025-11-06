@@ -27,7 +27,7 @@ f(t) = P_{n}(t) e^{k t} \implies y_{p}(t) = t^s P_n(t) e^{k t}
 $$
 where $s$ is the number of terms in $y_c(t)$ that have $e^{kt}$, where $P_{n}(t)$ is a n-degree polynomial
 If any term in the guess for $y_p$ is a solution to $y_c$, multiply by $t$. In other words, multiply by $t^s$
-If there are multiple terms, superposition applies.
+*If there are multiple terms, superposition applies.* What that means is you substitute one trial solution terms back into the original equation, at a time, in order to find the undetermined coefficients.
 Note that trig functions are actually exponentials:
 $$
 \sin(t) = \frac{1}{2i} (e^{it} - e^{-it})
