@@ -1,3 +1,8 @@
+---
+aliases:
+  - ODE
+---
+
 A single variable [[Differential Equation]], e.g. ito $y(t)$
 
 As opposed to a [[Partial Differential Equation]]

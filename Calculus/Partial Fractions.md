@@ -36,7 +36,7 @@ $$
 &A = \frac{1}{58}, B = -\frac{1}{58}, C = \frac{7}{58}
 \end{aligned}
 $$
-Substitute
+Finish the integral
 $$
 \begin{aligned}
 \frac{1}{58} \int^2_{-2} \left( \frac{1}{x+7} + \frac{7 - x}{x^2 + 9} \right)dx &= \\
