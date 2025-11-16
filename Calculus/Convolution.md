@@ -3,7 +3,7 @@ General Convolution
 $$
 (f * g)(t) = \int^{\infty}_{-\infty}f(t-s)g(s)\ ds
 $$
-Casaul Convolution (used with [[Laplace Transform]]s)
+Causal Convolution (used with [[Laplace Transform]]s)
 $$
 (f * g)(t) = \int^{t}_{0}f(t-s)g(s)\ ds
 $$

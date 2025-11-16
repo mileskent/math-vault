@@ -20,7 +20,7 @@ $$
 \mathcal{L}\{g(t)\}
 $$
 $$
-\mathcal{L}\{f(t) \cdot g(t)\} = \mathcal{L}\{f(t)\} * \mathcal{L}\{g(t)\}
+\mathcal{L}\{f(t) * g(t)\} = \mathcal{L}\{f(t)\} \cdot \mathcal{L}\{g(t)\}
 $$
 # Common Transforms
 
