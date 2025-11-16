@@ -30,10 +30,10 @@ $\hat{b} = A\hat{x} = proj_{Col\ A} \vec{b}$
 Note: Can only use [[Orthogonal Decomposition]] for $\hat{b}$ when the columns of A form an orthogonal basis, by definition
 $\implies$
 $$
-\displaylines{
+\begin{gathered}
 \forall \vec{a}\in Col\ A,\ \vec{a} \not = \hat{b} \quad \quad ||\vec{b} - \hat{b}|| < ||\vec{b} - \vec{a}||\\
 \forall A\vec{x} \in Col\ A,\ A\vec{x} \not = A\hat{x} \quad \quad ||\vec{b} - A\hat{x} || < ||\vec{b} - A\vec{x}||\\
-}
+\end{gathered}
 $$
 
 In other words, $\hat{b} = A\hat{x} = proj_{col\ a} \vec{b}$ is closest vector in $Col\ A$ to $\vec{b}$
@@ -78,16 +78,16 @@ Note: $A^T A$ plays the role of the "length squared" of the matrix A
 
 ### Theorem (Least Squares and QR)
 $$
-\displaylines{
+\begin{gathered}
 A \in \mathbb{R}^{m \times n} = QR\\
 \implies\\
 \text{Least Squares Solution }
 \hat{x} = R^{-1} Q^T \vec{b}
-}
+\end{gathered}
 $$
 ## Examples
 $$
-\displaylines{
+\begin{gathered}
 A = \begin{bmatrix}
 4 & 0 \\
  0&2  \\
@@ -131,12 +131,8 @@ A^T A \vec{x}= A^T \vec{b}\\
 1 \\
 2
 \end{bmatrix}
-}
+\end{gathered}
 $$
-
-See also: [[LeastSquaresHW6_5.pdf]]
-
-
 
 ### Hampton Explanation for Least Squares
 Let $A \in \mathbb{R}^{m \times n}$. $\hat{x}$ is the unique, minimizing solution to the equation $A\vec{x} = \vec{b}$ such that

@@ -9,10 +9,10 @@ Let $f(x, y)$ be defined on a region containing the point $(a,b)$
 * $f(a,b)$ is a <u>global min</u> of $f$ if $f(a,b) < f(x, y)$ for all $(x,y)$ in the domain of $f$
 
 > [!info] Theorem
-On a [[Region#Closed]] and [[Region#Bounded]] [[Region|Domain]], any continous function $f$ attains a global minimum and maximum
+> On a [[Region#Closed]] and [[Region#Bounded]] [[Region|Domain]], any continous function $f$ attains a global minimum and maximum
 
 > [!tip] Strategy for finding global extrema
-Let $f = f(x,y)$, domain $R$ be closed and bounded.
+> Let $f = f(x,y)$, domain $R$ be closed and bounded.
 > 1. Find all critical points of $f$ inside $R$, and on the [[Region#Boundary]] of $R$
 > 2. Evaluate $f$ at each critical point, as well as any endpoints of the boundary
 > 3. The smallest value found is the global minimum; the largest is the global maximum

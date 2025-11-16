@@ -9,9 +9,9 @@ $$
 ### Concerning $\hat{y}$
 If $\vec{u_1}, \cdots, \vec{u_p}$ is an [[Orthogonal Basis]] for $W$, then $\hat{y}$, the orthogonal projection of $\vec{y}$ onto $W$ is given by:
 $$
-\displaylines{
+\begin{gathered}
 \hat{y} =  proj_{W}\vec{y} = proj_{\vec{u_1}}\vec{y} + \cdots + proj_{\vec{u_p}}\vec{y} = proj_{W} \vec{y{}}
-}
+\end{gathered}
 $$
 See [[Best Approximation]], but in essence $\hat{y}$ is the closest vector in $W$ to $\vec{y}$
 

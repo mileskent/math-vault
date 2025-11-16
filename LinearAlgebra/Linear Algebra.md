@@ -605,7 +605,7 @@ number of of free vars
 	- $\mathcal{B} = \{\vec{b_1}, ..., \vec{b_n}\}$
 	- $\mathcal{B}$ is some basis for the subspace $H$
 $$
-\displaylines{
+\begin{gathered}
 \vec{x} \in H \implies \\
 \text{coords of $\vec{x}$ relative to $\mathcal{B}$ are $c_1, . . . , c_n$}\quad \vec{x} = c_1 \vec{b_1} + ... + c_n \vec{b_n}\quad\\ \\ \land \\
 \text{coord vector of } \vec{x} \text{ relative to } \mathcal{B}\quad [\vec{x}]_{\mathcal{B}} = \begin{bmatrix}
@@ -613,7 +613,7 @@ c_1 \\
 ... \\
 c_n
 \end{bmatrix}
-}
+\end{gathered}
 $$
 ![[Pasted image 20240923104520.png|400]]
 ## Rank-Nullity Theorem $\star$
@@ -697,10 +697,10 @@ probability vectors.
 A Markov chain is a sequence of probability vectors, and a
 stochastic matrix P , such that:
  $$
- \displaylines{
+ \begin{gathered}
  P^k \vec{x_0} = \vec{x}_k\\
  \vec{x}_{k+1} = P \vec{x}_k ; k = 0, 1, 2, . . .
- }
+\end{gathered}
  $$
 # Convergence
 #### Regularity
@@ -724,7 +724,7 @@ $$
 Goal: solve $P\vec{q} = \vec{q}$
 $(P-I)\vec{q} = \vec{q}$
 $$
-\displaylines{
+\begin{gathered}
 \begin{bmatrix}
 .8-1 & .3 & 0 \\
 .2 & .7-1 & 0
@@ -737,7 +737,7 @@ $$
 1 & -\frac{3}{2} & 0 \\
 0 & 0 & 0
 \end{bmatrix}
-}
+\end{gathered}
 $$
 $$
 \therefore \vec{q} = t\begin{bmatrix}
@@ -822,7 +822,7 @@ $det(A - \lambda I) = (1 - \lambda)^2 = \lambda^2 - 2\lambda +2$
 $\lambda = \frac{2 \pm \sqrt{4 - 8}}{2} = \frac{2 \pm 2i}{2} = 1 \pm i$
 $\lambda^{+}$:
 $$
-\displaylines{
+\begin{gathered}
 A - \lambda^{+} I\\
 \begin{bmatrix}
 1-(1+i) & -1 \\
@@ -846,17 +846,17 @@ A - \lambda^{+} I\\
 i \\
 1
 \end{bmatrix}
-}
+\end{gathered}
 $$
 
 $\lambda^{-}$:
 $$
-\displaylines{
+\begin{gathered}
 """"""\rightarrow \vec{v_{-}} = \begin{bmatrix}
 -i \\
 1
 \end{bmatrix}
-}
+\end{gathered}
 $$
 Could reason the eigenvalue for $\lambda^{-}$ by the fact that eigenvalues and their eigenvectors come in complex conjugate pairs.
 

@@ -4,7 +4,6 @@ $A$ is diagonalizable $\iff$ $A$ has $n$ linearly independent eigenvectors.
 i.e.
 
 $$
-\displaylines{
 A = PDP^{-1}\\ \iff \\ A = [\vec{v_1}, ..., \vec{v_n}] 
 \begin{bmatrix}
 \lambda_1 &  &  \\
@@ -12,8 +11,8 @@ A = PDP^{-1}\\ \iff \\ A = [\vec{v_1}, ..., \vec{v_n}]
  &  & \lambda_n
 \end{bmatrix}
 [\vec{v_1}, ..., \vec{v_n}]^{-1}
-}
 $$
+
 
 where $\vec{v}$ vectors are linearly independent eigenvectors, and $\lambda_1, ..., \lambda_n$ are the corresponding eigenvalues, in order.
 
@@ -35,14 +34,14 @@ $$
 Find the eigenvalues:
 
 $$
-\displaylines{
 \begin{vmatrix}
 1-\lambda &  & -1 \\
  & 2-\lambda &  \\
  &  & 1-\lambda
-\end{vmatrix} = (1-\lambda)^2 (2-\lambda) = 0\\
+\end{vmatrix} = (1-\lambda)^2 (2-\lambda) = 0
+$$
+$$
 \therefore \lambda = 1,1,2
-}
 $$
 
 We know that geomult <= algmult. Therefore $\lambda = 2$ has 1 distinct eigenvector.
@@ -60,7 +59,7 @@ There is only one free columns here. Therefore, the dimension of the Nullspace i
 
 #### Basis of Eigenvectors
 $$
-\displaylines{
+\begin{gathered}
 \text{Express the vector $\vec{x}_0 =$}
 \begin{bmatrix}
 4 \\
@@ -101,14 +100,14 @@ A^k = PD^k P^{-1} = [\vec{v_1}\ \vec{v_2}]
 \end{bmatrix}  
 [\vec{v_1}\ \vec{v_2}]^{-1}\\
 [A^k\ \vec{x}_0]_{\mathcal{B}} =\ ?
-}
+\end{gathered}
 $$
 
 #### Misc.
 $$
-\displaylines{
+\begin{gathered}
 \text{Let d(x) be "x is diagonalizable"}\\
 \text{Let i(x) be "x is invertible"}\\
 d(A) \land i(A) \iff d(A^{-1})\land i(A^{-1})
-}
+\end{gathered}
 $$

@@ -5,10 +5,10 @@ aliases:
 
 A [[Transformation]] is a transformation $T : \mathbb{R}^n \rightarrow \mathbb{R}^m$ satisfying
 $$
-\displaylines{
+\begin{gathered}
 T(\vec{u} + \vec{v}) = T(\vec{u}) + T(\vec{v})\\
 T(c \vec{u}) = cT(\vec{u})
-}
+\end{gathered}
 $$
 
 # 1-1
