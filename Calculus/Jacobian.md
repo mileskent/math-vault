@@ -17,7 +17,7 @@ $$
 f(x + h) \approx f(x) + Df(x)\,h.
 $$
 
-When you represent that linear map as a matrix (in standard coordinates), its matrix representation is **exactly the Jacobian**:
+When you represent that [[Linear Transformation|Linear Map]] as a matrix (in standard coordinates), its matrix representation is **exactly the Jacobian**:
 $$
 Df(x) = J_f(x).
 $$

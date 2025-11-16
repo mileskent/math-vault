@@ -426,36 +426,7 @@ T(\vec{e_1}) & T(\vec{e_2})
 \end{bmatrix}
 $$
 
-## Onto and one-to-one transformations
-TLDR: 
-1-1 $\iff$ every column of T is a pivot column
-Onto $\iff$ every row of T is a pivot row
-
-
-## Onto
-A linear transformation $T: \mathbb{R}^n \rightarrow \mathbb{R}^m$ is onto if there exists a location in the codomain for every location in the domain
-onto iff the standard matrix has a pivot in every row
-
-
-The matrix A has columns which span $\mathbb{R}^m$.
-The matrix A has all pivotal rows.
-
-## 1-1
-* If there is at most one location in the codomain for every location in the domain
-* 1-1 iff standard matrix has pivot in every column
-
-### Example(s)
-* e.g. $F(x) = x^2$ is not 1-1, because multiple x values for a single y value
-
-
-The unique solution to $T (\vec{x}) = \vec{0}$ is the trivial one.
-The matrix A ***linearly independent*** columns.
-Each column of A is pivotal.
-
-## 1-1 and Onto
-need square matrix
-if 1-1 then onto
-if Onto then 1-1
+![[Linear Transformation]]
 
 # Identity and zero matrices
 0 Matrix is matrix full of zeroes
