@@ -5,17 +5,14 @@ Given
 $$
 A\vec{v} = \lambda\vec{v}
 $$
-3. $\vec{v}$ is an **eigenvector** for $A$
-4. $\lambda$ is the corresponding **eigenvalue** ($\lambda\in \mathbb{C}$)
+## Eigenvector
+$\vec{v}$ is an **eigenvector** for $A$
 An eigenvector is a vector solution $\vec{v}$ to the above equation, such that the linear transformation of $A$ has the same result as scaling the vector by $\lambda$.
 
-Furthermore:
-$A\vec{v} = \lambda \vec{v}$
-$A\vec{v} - \lambda \vec{v}= 0$
-$A\vec{v} - \lambda \vec{v}= 0$
-$A\vec{v}-\lambda I(\vec{v})=0$
-$(A-\lambda I)\vec{v}=0$
-You can solve for $\lambda$ using in augmented matrix with this form
+## Eigenvalue
+$\lambda$ is the corresponding **eigenvalue** ($\lambda\in \mathbb{C}$)
+$A \vec{v} = \lambda \vec{v} \implies \det(A - \lambda I) = 0$
+Solve for $\lambda$ in $\det(A-\lambda I)=0$, which yields the [[Characteristic Equation]] for this system, e.g. in a 2D systems it is $\lambda^2 -\text{tr}A \cdot \lambda + \det A = 0$. In a 3D+ system, you still have to create the characteristic equation but it requires [[]]
 
 Notes:
 - $\lambda > 0 \implies A\vec{v}, \vec{v}$ point same direction
@@ -27,6 +24,6 @@ Notes:
 - A invertible iff 0 is not an eigenvalue of A.
 - Stochastic matrices have an eigenvalue equal to 1.
 - If $\vec{v}_1 , \vec{v}_2, . . . , \vec{v}_k$ are eigenvectors that correspond to distinct eigenvalues, then $\vec{v}_1 , \vec{v}_2, . . . , \vec{v}_k$ are linearly independent
-# Eigenspaces
+# Eigenspace
 * the span of the eigenvectors that correspond to a particular eigenvalue
 - $Nul(A-\lambda I)$
