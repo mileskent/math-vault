@@ -15,11 +15,5 @@
 # Off-Eigenspace Dynamics
 For 2D phase portraits, if the eigenvalue signs match, the curves off of the [[Eigenstuff#Eigenspace]]s are parabolas, else hyperbolas.
 
-# Stability
-$$
-\begin{align}
-\exists \lambda > 0 &\implies \text{Unstable}\\
-\lambda_{1} < 0 \land \lambda_{2} < 0 &\implies \text{Asymptotically Stable}\\
-\text{Else} &\implies \text{Stable}
-\end{align}
-$$
+## N-Dimensional Homogenous System Identification
+![[Stability#N-Dimensional Homogenous System Identification]]

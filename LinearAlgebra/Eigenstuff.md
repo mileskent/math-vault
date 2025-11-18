@@ -24,6 +24,17 @@ Notes:
 - A invertible iff 0 is not an eigenvalue of A.
 - Stochastic matrices have an eigenvalue equal to 1.
 - If $\vec{v}_1 , \vec{v}_2, . . . , \vec{v}_k$ are eigenvectors that correspond to distinct eigenvalues, then $\vec{v}_1 , \vec{v}_2, . . . , \vec{v}_k$ are linearly independent
+
+### Defective
+An eigenvalue is defective if and only if it ***does not*** have a complete [[Set]] of Linearly Independent eigenvectors.  
+$\lambda = 0 \implies \text{ Defective}$
+Due to $\mathrm{Im}\ \lambda$'s contribution, $\mathrm{Re}\ \lambda = 0 \not \implies\text{ Defective}$
+
+### Neutral Eigenvalue
+$$
+\forall \lambda\ s.t. \mathrm{Re}\ \lambda = 0
+$$
+
 # Eigenspace
 * the span of the eigenvectors that correspond to a particular eigenvalue
 - $Nul(A-\lambda I)$
