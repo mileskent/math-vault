@@ -8,3 +8,7 @@ $$
 (f * g)(t) = \int^{t}_{0}f(t-s)g(s)\ ds
 $$
 ![[Convolution_of_spiky_function_with_box2.gif]]
+Because a convolution is a product, it is commutative:
+$$
+f * g = g * f
+$$
