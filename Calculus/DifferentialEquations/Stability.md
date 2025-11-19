@@ -19,5 +19,6 @@ $$
 \text{Else} &\implies \text{Stable}
 \end{align}
 $$
+See [[Eigenstuff#Defective]]
 # Misc
 For first order [[Differential Equation]]s, the motion of a point in a [[Phase Portrait]] won't cross a [[Equilibrium Point]]

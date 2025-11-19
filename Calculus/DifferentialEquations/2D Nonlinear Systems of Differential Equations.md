@@ -32,8 +32,12 @@ x - \text{EP.x} \\
 y - \text{EP.y}
 \end{bmatrix}
 $$
-where EP is each equilibrium point, where EP.x and EP.y are the x and y components
+where $J_{\vec{F}(EP)}$ is the [[Jacobian]] matrix at a particular equilibrium point
+
+where EP is each [[Equilibrium Point]], where EP.x and EP.y are the x and y components
+
 By definition at an equilibrium point, the function is equal to $\vec{0}$. See [[#Equilibria]].
+
 Therefore the linearization becomes this:
 $$
 \begin{bmatrix}
@@ -98,8 +102,11 @@ $$
 $$
 
 where $🐺$, $🐯$ are population sizes
+
 where $g_{🐺}$, $r_{🐯}$ are intrinsic per capita growth rates
+
 where $K_{🐺}$, $K_{🐯}$ are carrying capacities.
+
 where $\alpha_{🐺🐯}$, $\alpha_{🐯🐺}$ are competition coefficients
 * where $\alpha_{🐺🐯}$ measures the negative effect tigers have on wolves
 * where $\alpha_{🐯🐺}$ measures the native effect wolves have on tigers
@@ -111,8 +118,13 @@ $$
 \frac{d🐺}{dt} = \delta 🐰 🐺 - \gamma 🐺
 $$
 where🐰 is the prey population size
+
 where 🐺 is the predator population size
+
 where $\alpha$ is the prey growth rate (birth rate)
-where $\beta$ is the predation rate/interaction rat
+
+where $\beta$ is the predation rate/interaction rate
+
 where $\gamma$ is the predator death rate
+
 where $\delta$ is the conversion efficiency of prey into new predators.
