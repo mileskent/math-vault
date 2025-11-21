@@ -473,6 +473,7 @@ also
 $(A^{-1})^{-1} = A$
 $(AB)^{-1} = B^{-1} A^{-1}$
 $(A^T)^{-1} = (A^{-1})^T$
+$\det A = \frac{1}{\det A^{-1}}$
 #### $2 \times 2$ Inverse Shortcut
 $$
 A = \begin{bmatrix}
