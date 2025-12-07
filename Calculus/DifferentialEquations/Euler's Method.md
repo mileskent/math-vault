@@ -1,4 +1,17 @@
-A numerical method for approximating the values of a solution $y(t)$ of a [[Differential Equation]], by discretizing the differential equation into a difference equation that can be used to find the approximate solution $y_n$ through recursive definition. 
+A numerical method for approximating the values of a solution $y(t)$ of a [[Differential Equation]], by discretizing the differential equation into a difference equation that can be used to find the approximate solution $y_n$ through recursive definition. Similar methods include [[Heun's Method]] and [[Runge-Kutta Method]]
+
+$$
+y' = f(t, y),\ y(t_{0}) = y_{0}
+$$
+$$
+t_{n}, y_{n} \rightarrow t_{n+1},y_{n+1}
+$$
+![[Pasted image 20251206173529.png|300]]
+* $t_{n+1} =t_{n} + h$
+* $y_{n+1} = y_{n} + hk_{n}$
+* where $k_{n} = f(t_{n}, y_{n})$
+* Local Truncation Error: $O(h^2)$
+* Global Truncation Error: $O(h)$
 
 # Discrete Derivative
 $$

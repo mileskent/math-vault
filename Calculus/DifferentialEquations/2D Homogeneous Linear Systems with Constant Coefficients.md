@@ -10,7 +10,7 @@ $$
 Recall $u' = \lambda u \implies u = ce^{\lambda t}$
 "Think of matrices as a generalization of the number system"
 Well it turns out that $\vec{x}' = A \vec{x} \implies \vec{x} = \vec{c}e^{At}$, where $\dim A = 2$
-A is diagonalizable $\iff \vec{x} = c_{1} e^{\lambda_{1} t} \vec{x}_{1} + c_{2} e^{\lambda_{2} t} \vec{x}_{2}$ where $\lambda_{n}$ are A's eigenvalues, and $\vec{v}_{n}$ are $A$'s eigenvectors. See [[Eigenvectors, Eigenvalues, and Eigenspaces]].
+A is diagonalizable $\iff \vec{x} = c_{1} e^{\lambda_{1} t} \vec{x}_{1} + c_{2} e^{\lambda_{2} t} \vec{x}_{2}$ where $\lambda_{n}$ are A's eigenvalues, and $\vec{v}_{n}$ are $A$'s eigenvectors. See [[Eigenstuff]].
 
 Find the eigenvalues of $A$ by solving the [[Characteristic Equation#Characteristic Polynomial]]
 We assume that $\lambda = \lambda_{1}, \lambda_{2} \in \mathbb{R} \not = 0 \quad \lambda_{1} \not = \lambda_{2}$
