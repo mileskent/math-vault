@@ -74,6 +74,43 @@ y - \text{EP.y}
 \end{bmatrix}
 $$
 This is a [[Shifted Systems of Linear Differential Equations]]
+## Linearization in 1D with Complex Polynomials
+$$
+\text{Let }y' = f(y) = -\frac{1}{16}(y+1)^3(y-2)^2y(y-3)(y-3)
+$$
+The equilibrium points of this equation are $y = -2,-1,0,2,3$
+The linearization at an equilibrium point is
+$$
+y'=J_{f(\text{EP})}(y-\text{EP}) = f'(\text{EP})(y-\text{EP})
+$$
+$$
+y'=J_{f}(y-\text{EP}) = f'(y-\text{EP})
+$$
+In short, if you have a polynomial of order 1, the linearization is just f, but you drop the EP term.
+If the order is greater than 1, then the linearization is 0.
+$$
+\begin{gathered}
+\textbf{Case: } y = -2\\
+    f(y) = -\frac{1}{16} \cdot (y+1)^3 \cdot (y-2)^2 \cdot y \cdot (y-3) \cdot (y+2)\\
+    \text{Define a function with every factor, besides the -2 term.} \\
+    \text{Let } G(y) = -\frac{1}{16} \cdot (y+1)^3 \cdot (y-2)^2 \cdot y \cdot (y-3)\\
+    f(y) = G(y) \cdot (y+2)\\
+    f'(y) = G'(y) \cdot (y+2) + G(y)\\
+    f'(-2) = G'(-2) \cdot (-2+2) + G(-2) = G(-2)\\
+    y' = f'(-2)(y+2) = G(-2)(y+2) = 10(y+2)\\
+    \text{Linearization: } \boxed{y' = 10(y+2)}\\
+     \\
+    \textbf{Case: } y = -1\\
+    f(y) = -\frac{1}{16} \cdot (y+1)^3 \cdot (y-2)^2 \cdot y \cdot (y-3) \cdot (y+2)\\
+    \text{Define a function with every factor, besides the -1 term.} \\
+    \text{Let } H(y) = -\frac{1}{16}\cdot (y-2)^2 \cdot y \cdot (y-3) \cdot (y+2)\\
+    f(y) = H(y) \cdot (y+1)^3\\
+    f'(y) = H'(y) \cdot (y+1)^3 + H(y) \cdot 3(y+1)^2\\
+    f'(-1) = H'(-1) \cdot (-1+1)^3 + H(-1) \cdot 3(-1+1)^2 = 0\\
+	y' = f'(-1)(y+1) = 0\\
+    \text{Linearization: } \boxed{y' = 0}\\
+\end{gathered}
+$$
 ## Perterbation
 Given
 $$
@@ -91,8 +128,9 @@ $$
 \vec{v} = J_{\vec{F}(\text{EP})} (\vec{v} - \text{EP})
 $$
 We approximate the dynamics of the original system, by finding the dynamics of the [[#Linearization]]
-TLDR: We find the [[Eigenstuff]] of the [[Jacobian]], and use that to construct our [[Phase Portrait]]
-
+* TLDR: We find the [[Eigenstuff]] of the [[Jacobian]], and use that to construct our [[Phase Portrait]]
+* If the eigenvalues of the Jacobian lead to Unstable or Asymptotically Stable, then the approximation is sufficient to determine the dynamics of the original system
+* If Stable, we consider the approximation "degenerate", and conclude that the approximation is insufficient.
 # Lotka-Volterra Competition Model
 $$
 \frac{d🐺}{dt} = g_{🐺} 🐺 \left(1 - \frac{🐺}{K_{🐺}} - \alpha_{🐺🐯} \frac{🐯}{K_{🐺}}\right) 
