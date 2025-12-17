@@ -16,7 +16,14 @@ $$
 $$
 where $s$ is [[Arc Length]], $t$ is any parameter
 
+# Unit Binormal Vector
+$$
+\vec{B}(t) = \vec{T}(t) \times \vec{N}(t)
+$$
+
 # Misc
 ![[Pasted image 20250922125004.png|400]]
-Unit normal vector and unit tangent vector are always perpendicular to each other.
-Unit normal vector is always normal to the curve. Unit tangent vector is always tangent to the curve, so their perpness is a natural consequence.
+* Unit normal vector and unit tangent vector are always perpendicular to each other.
+* Unit normal vector is always normal to the curve. Unit tangent vector is always tangent to the curve, so their perpness is a natural consequence.
+
+![[Curvature]]

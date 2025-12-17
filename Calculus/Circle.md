@@ -1,0 +1,1 @@
+A set of points equidistant from a center point.

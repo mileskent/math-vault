@@ -8,6 +8,8 @@ The subset of a region not belonging to the inerior of the region.
 # Closed
 The region contains all of its boundary points.
 As opposed to Open.
+# Simply-Connected
+One piece with no holes.
 # Bounded
 The region has finite size.
 

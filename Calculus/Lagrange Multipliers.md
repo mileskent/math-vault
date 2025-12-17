@@ -1,5 +1,9 @@
-Extrema of $f(\vec{r})$ subject to constraint $g(\vec{r})=c$ satisfy $(\nabla f = \lambda \nabla g \ \land\ g = c)$
-Extrema of $f(\vec{r})$ subject to constraints $g(\vec{r})=c_{1},\ h(\vec{r}) = c_{2}$ satisfy $(\nabla f = \lambda \nabla g + \mu \nabla h \ \land\ g = c_{1},\ h=c_{2})$
+* Extrema of $f(\vec{r})$ subject to constraint $g(\vec{r})=c$ satisfy $(\nabla f = \lambda \nabla g \ \land\ g = c)$
+* Extrema of $f(\vec{r})$ subject to constraints $g(\vec{r})=c_{1},\ h(\vec{r}) = c_{2}$ satisfy $(\nabla f = \lambda \nabla g + \mu \nabla h \ \land\ g = c_{1},\ h=c_{2})$
+* Extrema $\implies\nabla f \propto \nabla g$ is a consequence of:
+	* The [[Gradient]] of $g$ being normal to the level curve $g = c$, everywhere
+	* The gradient of $f$ along the boundary imposed by the constraint is also normal to the level curve $g = c$, wherever the [[Parameterization]] of $f$ along the boundary ($f(t)$; single-variable calculus) would have a zero derivative, i.e. where there are possible [[Extrema]]. $f$ along the boundary is normal to the level curve at possible extrema because its parameterization is flat.
+* See [here](https://youtu.be/5A39Ht9Wcu0) for a great video explanation
 
 # Examples
 > [!Example]- Example 1
