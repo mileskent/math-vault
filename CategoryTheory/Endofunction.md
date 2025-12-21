@@ -1,0 +1,1 @@
+An [[Endo]]-[[Function]] is a function that has identical [[Domain]] and [[Codomain]]. It is a special case of an [[Endomorphism]].

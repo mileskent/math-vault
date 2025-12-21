@@ -1,0 +1,1 @@
+An [[Isomorphism]] of an [[Mathematical Object|Object]] to itself.

@@ -1,0 +1,1 @@
+The [[Set]] of all inputs to a [[Function]]

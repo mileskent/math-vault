@@ -1,0 +1,1 @@
+The study of [[Set]]s, which are collections of distinct objects.

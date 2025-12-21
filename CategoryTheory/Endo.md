@@ -1,0 +1,1 @@
+Having identical [[Domain]] and [[Codomain]]

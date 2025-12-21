@@ -1,4 +1,4 @@
-A trick using the [[Leibniz Integral Rule]] to solve difficult [[Integral|Integrals]]
+A trick using the [[Leibniz Integral Rule]] to solve difficult [[Calculus/Integral|Integrals]]
 
 # Example
 $$
