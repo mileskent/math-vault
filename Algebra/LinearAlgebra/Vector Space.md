@@ -1,3 +1,6 @@
+---
+date: 2025-12-12
+---
 An [[Algebraic Structure]] containing [[Tensor]] elements called [[Vector]]s, over a [[Algebraic Field]] of [[Scalar]] values. 
 
 ![[Vector Space Element]]

@@ -1,3 +1,6 @@
+---
+date: 2022-12-15
+---
 # Scalar Field Line Integral
 ![[Line_integral_of_scalar_field.gif|300]]
 A Line Integral of a scalar field calculates the "area of the fence" along the curve $C$. Each height of the fence is the area under the surface defined by $f(x,y)$ for a given location on the curve. You can transform the integral into single-variable calculus problem.

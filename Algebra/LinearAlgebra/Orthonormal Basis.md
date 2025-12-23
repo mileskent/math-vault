@@ -1,3 +1,7 @@
+---
+date: 2024-12-08
+---
+
 An orthonormal basis for a subspace $W$ is an basis for which every vector is [[Orthonormal]], i.e. [[Orthogonal]] and [[Normal]]
 If $\{\vec{u_1}, \cdots, \vec{u_p}\}$ is an orthonormal basis for $W$:
 $$

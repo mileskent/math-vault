@@ -1,3 +1,7 @@
+---
+date: 2024-12-08
+---
+
 A [[Set]] of [[Vector]]s are an **orthogonal set** of vectors if every pair in the set is [[Orthogonal]] to every other vector in the set.
 
 # Linear Independence for Orthogonal Sets

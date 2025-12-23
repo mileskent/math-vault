@@ -1,3 +1,6 @@
+---
+date: 2022-12-15
+---
 
 ![[Pasted image 20251216231555.png|300]]
 A shape described by the intersection between a double napped cone, and a [[Plane]].

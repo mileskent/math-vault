@@ -1,3 +1,7 @@
+---
+date: 2024-12-8
+---
+
 Let $X$ be a set of vectors that form a basis for subspace $W$ of $\mathbb{R}^n$,
 Let $V$ be a set of vectors that form an [[Orthogonal Basis]] for $W$
 The Gram-Schmidt process defines how $V$ can be derived from $X$

@@ -1,3 +1,6 @@
+---
+date: 2024-12-01
+---
 An arrangment of the order of a [[Set]]
 
 A permutation is an [[Isomorphism]] of a set

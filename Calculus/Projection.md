@@ -1,3 +1,6 @@
+---
+date: 2022-12-15
+---
 # Vector Projection
 "The vector projection of B onto A"[^1]
 $$

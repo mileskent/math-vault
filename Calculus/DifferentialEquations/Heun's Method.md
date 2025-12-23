@@ -1,3 +1,6 @@
+---
+date: 2025-10-15
+---
 Also called "Improved Euler's Method". A numerical method for approximating the values of a solution $y(t)$ of a [[Differential Equation]], by discretizing the differential equation into a difference equation that can be used to find the approximate solution $y_n$ through recursive definition. Similar methods include [[Euler's Method]] and [[Runge-Kutta Method]]
 $$
 y' = f(t, y),\ y(t_{0}) = y_{0}

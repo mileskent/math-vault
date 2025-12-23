@@ -1,3 +1,6 @@
+---
+date: 2025-10-15
+---
 A [[Differential Equation]] is linear if terms appear only as
 $$
 f(t) \cdot y^{(n)}(t)

@@ -1,3 +1,7 @@
+---
+date: 2024-12-08
+---
+
 A matrix whose columns are [[Orthonormal]]
 
 $U$ is orthogonal $\iff U^T U = I_n$ 

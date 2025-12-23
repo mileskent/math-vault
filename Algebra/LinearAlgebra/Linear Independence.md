@@ -1,7 +1,9 @@
 ---
 aliases:
   - Linearly Indepedent
+date: 2024-12-8
 ---
+
 
 # Linear Independence
 The only solution to  $A \vec{x} = \vec{0}$ is the trivial $\vec{0}$ $\iff$ Linearly Independent

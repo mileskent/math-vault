@@ -1,3 +1,6 @@
+---
+date: 2025-12-12
+---
 A functor $F$ bridges two [[Category|categories]]. If you have Category $A$ and Category $B$, a functor 
 * Maps every [[Mathematical Object|Object]] in $A$ to an object in $B$
 	* $O \in A \implies F(O) \in B$

@@ -1,3 +1,6 @@
+---
+date: 2025-12-12
+---
 The Complex Numbers are a [[Number]] [[Set]] denoted by $\mathbb{C}$ that extends the [[Real Number|Real Numbers]] via the [[Imaginary Unit]] $i = \sqrt{ -1 }$
 * $\mathbb{C}$ is a [[Vector Space]] [[Isomorphism]] of $\mathbb{R}^2$
 * Like $\mathbb{R}^2$, the complex numbers can be represented within the [[Cartesian Plane]].

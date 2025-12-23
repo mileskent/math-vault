@@ -1,3 +1,7 @@
+---
+date: 2024-12-08
+---
+
 Like [[Diagonalization]], but you perform it on an orthogonal matrix, which makes the process easier as follows:
 $$
 S = PDP^T

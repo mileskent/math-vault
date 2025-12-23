@@ -1,3 +1,6 @@
+---
+date: 2022-12-15
+---
 # Total Derivative
 See [[Total Derivative]]
 $f : \mathbb{R}^p \to \mathbb{R}^m$ and $g : \mathbb{R}^n \to \mathbb{R}^p$

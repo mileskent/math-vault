@@ -1,3 +1,7 @@
+---
+date: 2024-12-08
+---
+
 Perpendicular. 
 * $\vec{a}$ and $\vec{b}$ are orthogonal if $\vec{a} \cdot \vec{b} = 0$
 - $||\vec{u} + \vec{w}||^2 = ||\vec{u}||^2 + ||\vec{w}||^2 \lor \vec{u} \cdot \vec{w} = 0 \implies \text{Orthogonal}$

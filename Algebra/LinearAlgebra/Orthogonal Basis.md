@@ -1,3 +1,7 @@
+---
+date: 2024-12-08
+---
+
 A basis where each vector is orthogonal to to every other vector.
 
 Let $W$ be a subspace of $\mathbb{R}^n$ and has an orthogonal basis formed by vectors: $\vec{u_1}, ... \vec{u_p}$

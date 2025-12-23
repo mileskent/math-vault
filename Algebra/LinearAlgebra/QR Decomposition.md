@@ -1,3 +1,7 @@
+---
+date: 2024-12-08
+---
+
 For any $m \times n$ matrix $A$, with [[Linear Independence|Linearly Indepedent]] columns:
 $$
 A = QR

@@ -1,3 +1,6 @@
+---
+date: 2022-12-15
+---
 Let surface $S$ be an oriented, piecewise-smooth surface bounded by a simple, closed, piecewise-smooth boundary curve $C$, that is positively oriented.
 
 Let $\vec{F}$ be a vector field whose components have continuous partial derivatives on an open region in $\mathbb{R}^3$ that contains $S$

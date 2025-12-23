@@ -1,3 +1,6 @@
+---
+date: 2022-12-15
+---
 $$
 \nabla \cdot \vec{F} = \text{div}\ \vec{F}
 $$

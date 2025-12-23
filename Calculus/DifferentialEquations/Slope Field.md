@@ -1,3 +1,7 @@
+---
+date: 2025-10-15
+---
+
 A slope field is a visual representation of all solutions to a first order [[Differential Equation]]
 
 For example.

@@ -1,3 +1,6 @@
+---
+date: 2024-12-01
+---
 An [[Mathematical Object|Object]] consisting of a [[Set]] of 
 [[#Vertex|vertices]] (nodes) connected by *edges* where the edges may be directed or undirected.
 * If the same vertices are connected in the same way by edges, the graphs are the same; it doesn't matter how you draw the graph so long as it satifies the aforementioned condition

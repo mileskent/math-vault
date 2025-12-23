@@ -1,3 +1,6 @@
+---
+date: 2022-12-15
+---
 The continous sum of infinitesimal areas under a [[Function]], over a definite or indefinite range.
 
 $$

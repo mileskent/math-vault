@@ -1,3 +1,6 @@
+---
+date: 2022-12-15
+---
 All orders of partial differentiation yield the same result.
 e.g.
 $$

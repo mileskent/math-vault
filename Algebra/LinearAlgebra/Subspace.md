@@ -1,3 +1,6 @@
+---
+date: 2024-12-08
+---
 A [[Vector Space]]'s version of a [[Subset]], with some constraints.
 
 A subset $H$ of $\mathbb{R}^n$ is a subspace if it is closed within scalar multiplication and vector addition, i.e. if

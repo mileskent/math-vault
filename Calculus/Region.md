@@ -1,6 +1,7 @@
 ---
 aliases:
   - Domain
+date: 2022-12-15
 ---
 # Boundary
 The subset of a region not belonging to the inerior of the region.

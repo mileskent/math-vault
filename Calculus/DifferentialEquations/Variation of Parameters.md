@@ -1,3 +1,7 @@
+---
+date: 2025-10-15
+---
+
 # Nonhomogenous Linear System
 $$
 \vec{x}' = A(t) \vec{x} + \vec{f}(t)

@@ -1,3 +1,6 @@
+---
+date: 2022-12-15
+---
 Given $F(x, y, z) = c$
 $$
 z_{x} = -\frac{F_{x}}{F_{z}} \quad

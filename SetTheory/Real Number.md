@@ -1,3 +1,6 @@
+---
+date: 2024-12-01
+---
 A Real Number is a [[Number]] that represents a continuous quantity.
 * $\mathbb{R}$ is all real numbers
 	* Contains $\mathbb{Q}$, the [[Set]] of [[Rational Number]]s

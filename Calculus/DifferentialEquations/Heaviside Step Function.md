@@ -1,6 +1,7 @@
 ---
 aliases:
   - unit step function
+date: 2025-10-15
 ---
 $$
 H(x) = 

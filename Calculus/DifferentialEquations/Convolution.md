@@ -1,3 +1,6 @@
+---
+date: 2025-10-15
+---
 A convolution is a kind of product that results in a blend/weighted overlap/smooth combination between two functions based on how much one function overlaps with a shifted and flipped version of another.
 General Convolution
 $$

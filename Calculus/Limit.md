@@ -1,3 +1,6 @@
+---
+date: 2022-12-15
+---
 A limit is the value that a function approaches as the argument approaches some value
 # Existence
 $\lim_{ \vec{v} \to \vec{v}_{0} } f(\vec{v}) = L$ exists $\iff$ $f(\vec{v})$ approaches $L$ from every direction.

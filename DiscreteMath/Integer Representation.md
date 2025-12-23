@@ -1,3 +1,6 @@
+---
+date: 2024-12-01
+---
 See also: [[Base Conversion]]
 ### Decimal
 - Base 10

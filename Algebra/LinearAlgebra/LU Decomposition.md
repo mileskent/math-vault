@@ -1,3 +1,7 @@
+---
+date: 2024-12-8
+---
+
 If A is an $m \times n$ [[Matrix]] that can be [[Row Reduction|row reduced]] to [[Echelon Form]]
 without row exchanges, then
 $$

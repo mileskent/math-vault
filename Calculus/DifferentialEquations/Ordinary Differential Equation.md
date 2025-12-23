@@ -1,6 +1,7 @@
 ---
 aliases:
   - ODE
+date: 2025-10-15
 ---
 
 A single variable [[Differential Equation]], e.g. ito $y(t)$

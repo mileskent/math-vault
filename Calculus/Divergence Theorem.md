@@ -1,3 +1,6 @@
+---
+date: 2022-12-15
+---
 Let $E$ be a [[Region#Simple]] Solid. 
 
 Let the surface $S$ be the boundary surface enclosing $E$, with outward orientation.

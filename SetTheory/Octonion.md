@@ -1,3 +1,6 @@
+---
+date: 2025-12-01
+---
 [[Quaternion]], but 8D.
 $$
 \mathbb{R} \subset \mathbb{C} \subset \mathbb{H} \subset \mathbb{O}

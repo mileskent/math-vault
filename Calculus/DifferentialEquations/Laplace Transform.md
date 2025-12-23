@@ -1,3 +1,6 @@
+---
+date: 2025-10-15
+---
 An [[Integral Transform]] that converts a function $f(t)$ with $t \in \mathbb{R}$ (usually time domain) to a function $F(s)$ with $s \in \mathbb{C}$ (frequency domain)
 $$
 F(s) = \mathcal{L}\{f(t)\}(s) = \int^{t = \infty}_{t = 0} e^{-st}f(t)\ dt

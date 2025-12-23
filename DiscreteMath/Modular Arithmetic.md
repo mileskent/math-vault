@@ -1,3 +1,6 @@
+---
+date: 2024-12-01
+---
 # Modular Congruence
 **Informal Definition:**
 An integer a is considered congruent to an integer b modulo m if a and b have the same remainder when divided by m. 

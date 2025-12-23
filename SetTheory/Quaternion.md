@@ -1,3 +1,6 @@
+---
+date: 2025-12-01
+---
 ![[Pasted image 20251220093633.png|200]]
 * A way of respresenting the orientation of a 3 dimension body in space, using a 4D object
 * A 4-dimensional extension of the complex numbers

@@ -1,3 +1,7 @@
+---
+date: 2024-12-8
+---
+
 $A \in \mathbb{R}^{n \times n} \land A = PDP^{-1} \implies A$ is diagonalizable, where $D$ is a diagonal matrix
 
 $A$ is diagonalizable $\iff$ $A$ has $n$ linearly independent eigenvectors.

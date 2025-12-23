@@ -1,3 +1,7 @@
+---
+date: 2025-12-13
+---
+
 An [[Algebraic Structure]] that has less [[Axiom]]s than a [[Group]] because it doesn't require an [[Inverse]]
 # Axioms
 1. [[Closure]]: $a, b \in g \implies ab \in g$

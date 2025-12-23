@@ -1,3 +1,7 @@
+---
+date: 2025-12-13
+---
+
 A [[Group]] whose group [[Operation]] is [[Commutativity]].
 
 # Axioms

@@ -1,3 +1,7 @@
+---
+date: 2024-12-08
+---
+
 $$
 \text{rank}\ A = \dim\ \text{Col}\ A = \text{\# pivots}
 $$

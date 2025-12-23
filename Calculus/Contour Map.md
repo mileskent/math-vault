@@ -1,3 +1,7 @@
+---
+date: 2022-12-15
+---
+
 Basically a topographical map for a function. 
 ![[Pasted image 20250910154619.png|$[a\ ..=\ b] = f(x, y)$|300]]
 # Contour

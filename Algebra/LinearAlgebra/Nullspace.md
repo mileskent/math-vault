@@ -1,3 +1,7 @@
+---
+date: 2024-12-08
+---
+
 The [[Subspace]] defined by the [[Set]] of $\vec{x}$ that satisfy $A\vec{x} = \vec{0}$
 $$
 \text{Nul}\ A = \{\vec{x} \ |\ A \vec{x} = \vec{0}\}

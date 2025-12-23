@@ -1,3 +1,6 @@
+---
+date: 2024-12-08
+---
 https://www.youtube.com/watch?v=vSczTbgc8Rc
 # Applications
 - If A is a invertible square matrix then the **condition number** is the largest singular value divided by the smallest singular value

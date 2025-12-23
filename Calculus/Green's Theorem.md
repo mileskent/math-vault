@@ -1,3 +1,6 @@
+---
+date: 2022-12-15
+---
 
 ![[Pasted image 20251217001007.png]]
 Green's Theorem equates

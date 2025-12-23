@@ -1,3 +1,6 @@
+---
+date: 2024-12-01
+---
 A selectiion of elements from a [[Set]] where order *doesn't* matter.
 $$
 C(n, k) = \frac{n!}{k!(n-k)!}

@@ -1,3 +1,6 @@
+---
+date: 2024-12-01
+---
 See also: [[Integer Representation]]
 
 Use the following algorithm to construct base b expansions of an integer n.

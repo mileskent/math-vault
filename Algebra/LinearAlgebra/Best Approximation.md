@@ -1,3 +1,7 @@
+---
+date: 2024-12-8
+---
+
 $W$ is a subspace of $\mathbb{R}^n$, $\vec{y} \in \mathbb{R}^n$, $\hat{y} = proj_{W} \vec{y}$
 $\implies$
 $$

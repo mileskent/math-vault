@@ -1,3 +1,7 @@
+---
+date: 2025-12-13
+---
+
 The [[Identity]] property for Addition specifically.
 $$
 \exists\ I \text{ s.t. } \forall A \in S,\ IA = AI = A

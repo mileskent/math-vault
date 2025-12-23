@@ -1,3 +1,6 @@
+---
+date: 2022-12-15
+---
 If $f(\vec{v}) = g(\vec{v})h(\vec{v})$ where $\lim_{ \vec{v} \to \vec{v}_{0}} g(\vec{v}) = 0$ and $|h(\vec{v})| \leq C$, then $\lim_{ \vec{v}\to \vec{v}_{0}} f(\vec{v}) = 0$
 if you have a product between something whose limit goes to 0, and some other function that is bounded, then the whole thing will go to 0.
 

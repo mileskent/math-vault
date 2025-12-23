@@ -1,3 +1,7 @@
+---
+date: 2024-12-8
+---
+
 Linear Algebra is the study of [[Vector Space|Vector Spaces]]
 # Vectors and Vector Spaces
 ![[Vector Space]]

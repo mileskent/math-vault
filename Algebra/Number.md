@@ -1,3 +1,6 @@
+---
+date: 2025-12-12
+---
 An element of a [[Division Ring]], used for measuring, counting, quantifying, etc.
 
 | Set Name              |    Symbol    | Description                                                              | Examples                |

@@ -1,3 +1,6 @@
+---
+date: 2022-12-15
+---
 * Extrema of $f(\vec{r})$ subject to constraint $g(\vec{r})=c$ satisfy $(\nabla f = \lambda \nabla g \ \land\ g = c)$
 * Extrema of $f(\vec{r})$ subject to constraints $g(\vec{r})=c_{1},\ h(\vec{r}) = c_{2}$ satisfy $(\nabla f = \lambda \nabla g + \mu \nabla h \ \land\ g = c_{1},\ h=c_{2})$
 * Extrema $\implies\nabla f \propto \nabla g$ is a consequence of:

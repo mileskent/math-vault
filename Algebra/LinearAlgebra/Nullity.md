@@ -1,3 +1,7 @@
+---
+date: 2024-12-08
+---
+
 $$
 \text{Nullity}\ A = \dim\ \text{Nul}\ A = \text{\# free vars}
 $$

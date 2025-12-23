@@ -1,3 +1,6 @@
+---
+date: 2025-12-12
+---
 An element of a [[Vector Space]], represented in that space either by a direction and magnitude, or by a list of [[Number]]s, each describing the placement along a coordinate axis. 
 
 ![[Vector Space Element]]

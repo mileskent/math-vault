@@ -1,6 +1,7 @@
 ---
-aliases:
+date: 2024-12-01
 ---
+
 $$
 S = \{O\ |\ A \land B \land \dots \}
 $$

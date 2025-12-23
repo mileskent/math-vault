@@ -1,3 +1,6 @@
+---
+date: 2022-12-15
+---
 # Scalar Surface Integral
 A scalar surface integral computes a overall value across a surface, based on instantaneous concentrations at each $f(x,y,z)$, e.g. overall mass from instantaneous densities
 ![[Pasted image 20251217010042.png|200]]

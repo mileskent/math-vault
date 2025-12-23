@@ -1,3 +1,7 @@
+---
+date: 2022-12-15
+---
+
 Arc length is the distance between two points along a section of a curve.
 
 # General

@@ -1,3 +1,6 @@
+---
+date: 2024-12-01
+---
 See also: [[Fundamental Theorem of Arithmetic]]
 
 $\forall\ (n  \in \mathbb{Z}, \ n > 1)$ ($n$ prime $\iff$ $n$ only has factors $1,\ n$)

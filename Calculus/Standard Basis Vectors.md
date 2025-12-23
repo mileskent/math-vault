@@ -1,3 +1,6 @@
+---
+date: 2022-12-15
+---
  ![[Pasted image 20250826130328.png|300]]
 > Standard basis vectors **i**, **j**, **k** and vector components of **a**, denoted here **a**x, **a**y, **a**z
 

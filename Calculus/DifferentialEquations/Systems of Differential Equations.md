@@ -1,3 +1,7 @@
+---
+date: 2025-10-15
+---
+
 ![[2D Homogeneous Linear Systems with Constant Coefficients]]
 
 ![[Shifted Systems of Linear Differential Equations]]

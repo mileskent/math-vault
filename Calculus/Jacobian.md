@@ -1,3 +1,6 @@
+---
+date: 2022-12-15
+---
 $$
 \mathbf{J_f} = \begin{bmatrix}
   \dfrac{\partial \mathbf{f}}{\partial x_1} & \cdots & \dfrac{\partial \mathbf{f}}{\partial x_n}

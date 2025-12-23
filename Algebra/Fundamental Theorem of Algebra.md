@@ -1,3 +1,6 @@
+---
+date: 2025-12-12
+---
 An $n^{\text{th}}$ degree [[Polynomial]] has exactly $n$ [[Complex Number|complex]] roots (including multiplicity).
 * Complex roots come in [[Complex Number#Complex Conjugate]] pairs
 	* If $x \in \mathbb{C}$ is a root of a polynomial, then so is $\bar{x}$

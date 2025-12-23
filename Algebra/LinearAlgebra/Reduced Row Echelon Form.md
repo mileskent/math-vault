@@ -1,6 +1,7 @@
 ---
 aliases:
   - RREF
+date: 2023-12-02
 ---
 A rectangular [[Matrix]] is in *RREF* if 
 1. If there are any, all zero rows are at the bottom

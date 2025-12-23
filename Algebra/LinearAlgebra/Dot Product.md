@@ -1,3 +1,7 @@
+---
+date: 2023-12-2
+---
+
 Measures the alignment of its operand vectors on a scale of 0 to 1
 
 - $\vec{u} \cdot \vec{v} = \vec{u}^{T} \vec{v}$

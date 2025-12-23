@@ -1,3 +1,7 @@
+---
+date: 2025-10-15
+---
+
 ![[Pasted image 20250907173924.png|One dimensional phase portrait]]
 > [!col]
 > ![[Pasted image 20250905173724.png|$\lambda_{1}, \lambda_{2} < 0 \implies$Stable Nodal Sink, Asymptotically Stable]]

@@ -1,3 +1,6 @@
+---
+date: 2025-12-12
+---
 A trick using the [[Leibniz Integral Rule]] to solve difficult [[Calculus/Integral|Integrals]]
 
 # Example

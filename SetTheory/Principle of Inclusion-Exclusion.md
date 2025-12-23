@@ -1,3 +1,6 @@
+---
+date: 2024-12-01
+---
 $$
 |A_1 \cup A_2 \cup \dots \cup A_n| = \sum_{i=1}^{n} |A_i| - \sum_{1 \leq i < j \leq n} |A_i \cap A_j| + \sum_{1 \leq i < j < k \leq n} |A_i \cap A_j \cap A_k| - \dots + (-1)^{n+1} |A_1 \cap A_2 \cap \dots \cap A_n|
 $$

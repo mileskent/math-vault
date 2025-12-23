@@ -1,6 +1,7 @@
 ---
 aliases:
   - Fundamental Theorem of Linear Algebra
+date: 2024-12-08
 ---
 
 $$

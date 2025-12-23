@@ -1,3 +1,7 @@
+---
+date: 2023-12-2
+---
+
 A rectangular matrix is in **echelon form** if 
 1. If there are any, all zero rows are at the bottom
 2. The first non-zero entry (leading entry) of a row is to the right of any leading entries in the row above it

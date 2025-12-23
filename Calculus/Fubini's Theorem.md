@@ -1,3 +1,6 @@
+---
+date: 2022-12-15
+---
 If $f(x,y)$ is continuous on the Rectangle $R = [a,b] \times [c,d]$
 $$
 \iint_{R} f(x,y)\ dA =

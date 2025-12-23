@@ -1,3 +1,6 @@
+---
+date: 2024-12-08
+---
 * The [[Set]] of all [[Linear Combination]]s of the $v$'s in called the **span** of the $v$'s
 * e.g. 
 $$

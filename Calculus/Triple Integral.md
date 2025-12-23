@@ -1,3 +1,6 @@
+---
+date: 2022-12-15
+---
 An integral over 3 variables.
 $$
 \iiint_{E} f(\vec{x})\ dV

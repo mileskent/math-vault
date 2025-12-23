@@ -1,3 +1,7 @@
+---
+date: 2024-12-8
+---
+
 Imagine the area of parallelogram created by the basis of a standard vector space, like $\mathbb{R}^2$. Now apply a linear transformation $A$ to that vector space. The new area of the new parallelogram has been scaled by a factor of the determinant.
 $S$ is the parallelopiped. 
 $$

@@ -1,3 +1,6 @@
+---
+date: 2024-12-08
+---
 A stochastic matrix is a [[Square Matrix]] $P$ whose columns are [[Probability Vector]]s.
 
 |det(P)| <= 1, only volume contracting or preserving

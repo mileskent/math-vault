@@ -1,6 +1,7 @@
 ---
 aliases:
   - Linear Approximation
+date: 2022-12-15
 ---
 
 The linearization or linear approximation of a differentiable function $f : \mathbb{R}^n \rightarrow \mathbb{R}^m$ at the point $\vec{a} = (a_{1}, \cdots,\ a_{n}) is$

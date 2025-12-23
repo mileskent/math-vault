@@ -1,3 +1,6 @@
+---
+date: 2022-12-15
+---
 To find a center of mass $(\bar{x}, \bar{y}, \bar{z})$
 $$
 (\bar{x}, \bar{y}, \bar{z}) = \left( \frac{M_{yz}}{M}, \frac{M_{xz}}{M}, \frac{M_{xy}}{M} \right)

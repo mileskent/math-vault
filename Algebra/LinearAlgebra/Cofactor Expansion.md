@@ -1,3 +1,7 @@
+---
+date: 2024-12-8
+---
+
 Cofactor expansion is a method used to calculate the [[Determinant]] of an $n \times n$ matrix $A$. It works by reducing the determinant of the $n \times n$ matrix to a sum of determinants of $(n-1) \times (n-1)$ submatrices. It is a recursive definition.
 
 $$C_{ij} = (-1)^{i+j} \det(M_{ij})$$

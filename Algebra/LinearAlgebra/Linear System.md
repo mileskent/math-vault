@@ -1,6 +1,7 @@
 ---
-aliases:
+date: 2024-12-8
 ---
+
 A system of [[Linear Equation]]s.
 
 # Representation

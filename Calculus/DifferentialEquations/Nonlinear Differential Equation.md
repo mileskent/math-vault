@@ -1,3 +1,6 @@
+---
+date: 2025-10-15
+---
 A [[Differential Equation]] is nonlinear if terms don't appear only as
 $$
 f(t) \cdot y^{(n)}(t)

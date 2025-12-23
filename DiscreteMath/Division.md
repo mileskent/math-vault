@@ -1,3 +1,6 @@
+---
+date: 2024-12-01
+---
 Let $a \not = 0, b$ are integers
 - if there is an integer $c$ such that $b = ac$, then we say a **divides** b
 	- a is a factor of b

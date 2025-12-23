@@ -1,3 +1,6 @@
+---
+date: 2022-12-15
+---
 $$
 \nabla \times \vec{F} = \text{curl}\ \vec{F}
 $$

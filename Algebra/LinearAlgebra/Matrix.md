@@ -1,3 +1,7 @@
+---
+date: 2024-12-8
+---
+
 A matrix is a rectangular array of [[Number]]s
 # Operations
 ## Matrix Addition

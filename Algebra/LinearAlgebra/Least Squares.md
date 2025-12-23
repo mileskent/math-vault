@@ -1,3 +1,7 @@
+---
+date: 2024-12-8
+---
+
 ### Given
 Given many data points, construct a matrix equation in the form of a linear equation (this matrix equation will be overdetermined). The matrix equation below is $A\vec{x} = \vec{b}$
 This equation is linear but it doesn't have to be, just adjust accordingly to represent the equations as a matrix equation.

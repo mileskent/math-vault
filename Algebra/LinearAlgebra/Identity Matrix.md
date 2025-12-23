@@ -1,3 +1,7 @@
+---
+date: 2024-12-8
+---
+
 A [[Matrix]] full of zeroes, except for ones on the diagonal.
 * Called the [[Identity]] matrix, because it follows the [[Multiplicative Identity Property]]
 * It is denoted as $I$ or $I_n$ to indicate $I_{n} \in \mathbb{R}^{n \times n}$, but $n$ is usually obvious based on context

@@ -1,3 +1,6 @@
+---
+date: 2022-12-15
+---
 A curve in space.
 
 # Unit Tangent Vector

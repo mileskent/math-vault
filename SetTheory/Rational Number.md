@@ -1,3 +1,6 @@
+---
+date: 2024-12-01
+---
 The [[Set]] of all [[Number]]s that can be expressed as 
 $$
 \mathbb{Q}=\frac{p}{q}

@@ -1,3 +1,6 @@
+---
+date: 2022-12-15
+---
 The **Leibniz integral rule** for differentiation under the integral sign:
 # General Case
 $$

@@ -1,3 +1,6 @@
+---
+date: 2022-12-15
+---
 $$
 z = |z|e^{i\phi} = |z| (\cos(\phi) + i \sin(\phi))
 $$

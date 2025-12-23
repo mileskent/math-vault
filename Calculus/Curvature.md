@@ -1,3 +1,6 @@
+---
+date: 2022-12-15
+---
 The <u>curvature</u> of a [[Space Curve]] 
 $$
 \kappa(s) = \lVert \vec{T}'(s) \rVert

@@ -1,3 +1,6 @@
+---
+date: 2024-12-08
+---
 A steady state vector for [[Stochastic Matrix]] $P$ is a [[Vector]] $\vec{q}$ such that $P \vec{q} = \vec{q}$. 
 * It is where the [[Markov Chain]] of $P$ converges after a sufficient amount of time. 
 * Solve for $(P-I)\vec{q} = 0$ to find the steady state vector for $P$.

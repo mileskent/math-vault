@@ -1,3 +1,6 @@
+---
+date: 2022-12-15
+---
 # Local
 Let $f(x, y)$ be defined on a region containing the point $(a,b)$
 * $f(a,b)$ is a <u>local max</u> of $f$ if $f(a,b) \geq f(x, y)$ for all domain points $(x,y)$ in a disk centered at $(a,b)$

@@ -1,3 +1,6 @@
+---
+date: 2024-12-01
+---
 If
 1. Fixed number of trials
 2. Each trial is independent

@@ -1,3 +1,7 @@
+---
+date: 2024-12-8
+---
+
 A is an $n \times n$, [[Square Matrix]]
 $\iff$
 A is [[Matrix#Invertible]]

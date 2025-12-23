@@ -1,3 +1,6 @@
+---
+date: 2025-10-15
+---
 A [[Linear Differential Equation]] of [[Differential Equation#Order|Order]] 1. We are assuming it to be a [[Ordinary Differential Equation]].
 
 $$

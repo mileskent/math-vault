@@ -1,3 +1,6 @@
+---
+date: 2024-12-08
+---
 # Row Operation
 ![[Row Operation]]
 # Consistent

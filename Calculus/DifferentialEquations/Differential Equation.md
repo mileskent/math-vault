@@ -1,3 +1,6 @@
+---
+date: 2025-10-15
+---
 An [[Equation]] in which the unknowns are functions. Solve for $y(t)$ in the below. 
 $$
 y'(t) = 3y(t) + t^3

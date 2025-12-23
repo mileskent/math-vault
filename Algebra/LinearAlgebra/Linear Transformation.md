@@ -2,7 +2,9 @@
 aliases:
   - Linear Map
   - Linear Mapping
+date: 2024-12-8
 ---
+
 A Linear transformation is a [[Transformation]]  where $T: \mathbb{R}^n \rightarrow \mathbb{R}^m, T(\vec{v}) = A \vec{v}$
 * where $A \in R^{m \times n}$
 * [[Domain]] of T is $\mathbb{R}^n$ (where we start)

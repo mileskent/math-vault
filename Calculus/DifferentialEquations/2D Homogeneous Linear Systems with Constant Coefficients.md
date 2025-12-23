@@ -1,3 +1,7 @@
+---
+date: 2025-10-15
+---
+
 $$
 \frac{d \vec{x}}{dt} = A \vec{x}
 \quad\quad \text{where } \vec{x}(t) = \begin{bmatrix}

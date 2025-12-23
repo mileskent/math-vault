@@ -1,3 +1,7 @@
+---
+date: 2025-12-12
+---
+
 # Eigenvectors and Eigenvalues
 Given
 1. A is square

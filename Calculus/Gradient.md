@@ -1,3 +1,6 @@
+---
+date: 2022-12-15
+---
 $$
 \nabla f = \text{grad}\ f=<f_{x}, f_{y}, f_{z}>
 $$

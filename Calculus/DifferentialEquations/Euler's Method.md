@@ -1,3 +1,6 @@
+---
+date: 2025-10-15
+---
 A numerical method for approximating the values of a solution $y(t)$ of a [[Differential Equation]], by discretizing the differential equation into a difference equation that can be used to find the approximate solution $y_n$ through recursive definition. Similar methods include [[Heun's Method]] and [[Runge-Kutta Method]]
 
 $$

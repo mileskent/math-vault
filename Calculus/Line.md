@@ -1,3 +1,6 @@
+---
+date: 2022-12-15
+---
 # Vector Equation
 $$
 l(t) = \underbrace  {\vec{OP}}_{\text{Position vector on line}} + t \underbrace{\vec{v}}_{\text{Vector || line}},\ t \in \mathbb{R}

@@ -1,3 +1,7 @@
+---
+date: 2024-12-8
+---
+
 $$
 \begin{gathered}
 AB = I 

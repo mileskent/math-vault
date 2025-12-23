@@ -1,3 +1,7 @@
+---
+date: 2024-12-8
+---
+
 
 #### Diagonal Matrix
 A matrix is **diagonal** if the only non-zero elements, if any, are on the main diagonal.

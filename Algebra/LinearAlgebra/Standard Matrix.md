@@ -1,3 +1,6 @@
+---
+date: 2024-12-08
+---
 A standard matrix $A$ is a [[Matrix]] that represents a [[Linear Transformation]], where the transformation can be expressed as $T(\vec{x}) = A \vec{x}$. It is found by applying the transformation to the [[Standard Basis Vectors]]s and using the results as the columns of the matrix $A$
 # Theorem
 Let $T: \mathbb{R}^n \rightarrow \mathbb{R}^m$ be a Linear Transformation. Then there is a unique Matrix $A$ such that

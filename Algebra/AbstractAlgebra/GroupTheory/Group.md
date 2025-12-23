@@ -1,3 +1,7 @@
+---
+date: 2025-12-13
+---
+
 A group $G$ is a [[Set]] that satisfies the axioms of a group.
 # Axioms
 1. [[Closure]]: $A, B \in G \implies AB \in G$

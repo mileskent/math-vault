@@ -1,3 +1,7 @@
+---
+date: 2024-12-8
+---
+
 The dimension of a [[Subspace]] $H$ is the [[Cardinality]] of its [[Basis]] $\mathcal{B}$
 $$
 \dim H = |\mathcal{B}|

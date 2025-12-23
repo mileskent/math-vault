@@ -1,5 +1,5 @@
 ---
-aliases:
+date: 2024-12-08
 ---
 
 https://www.youtube.com/watch?v=mhy-ZKSARxI

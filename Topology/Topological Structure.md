@@ -1,1 +1,4 @@
+---
+date: 2025-12-01
+---
 If you have a [[Set]] X, a **topological structure** is a collection of subsets of X (called **open sets**) that define how the points in that space relate to one another.

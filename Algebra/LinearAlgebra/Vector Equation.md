@@ -1,3 +1,6 @@
+---
+date: 2024-12-08
+---
 An [[Equation]] comprised of [[Vector]]s, rather than [[Scalar]]s.
 
 For example, the vector equation of a [[Space Curve]] through $\mathbb{R}^3$
