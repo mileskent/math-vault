@@ -1,0 +1,1 @@
+Some [[Vector]] $\vec{x}$ with nonnegative elements that sum to 1

@@ -1,0 +1,1 @@
+Logic is the study of reasoning, soundness, validity, and truth.

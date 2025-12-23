@@ -1,0 +1,1 @@
+A container of [[Mathematical Object|Object]]s, [[Morphism]]s, and [[Operation]]s.

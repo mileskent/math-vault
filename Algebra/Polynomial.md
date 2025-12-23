@@ -1,0 +1,1 @@
+An expression containing only variables, coefficients, addition, subtraction, multiplication, and nonnegative integer exponentiation

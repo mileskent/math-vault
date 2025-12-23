@@ -1,0 +1,1 @@
+A [[Rank]] 0 [[Tensor]]

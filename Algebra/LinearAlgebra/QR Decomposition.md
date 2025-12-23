@@ -1,4 +1,4 @@
-For any $m \times n$ matrix $A$, with linearly independent columns:
+For any $m \times n$ matrix $A$, with [[Linear Independence|Linearly Indepedent]] columns:
 $$
 A = QR
 $$

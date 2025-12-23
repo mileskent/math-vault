@@ -1,0 +1,1 @@
+Any two [[Basis|bases]] for a [[Subspace]] have the same [[Dimension]]

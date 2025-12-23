@@ -1,1 +1,1 @@
-The study of infinitesimals and the [[Mathematical Object|Object]]s that use them, like [[Derivative 1]]s and [[Integral 1]]s.
+The study of infinitesimals and the [[Mathematical Object|Object]]s that use them, like [[Derivative]]s and [[Integral]]s.

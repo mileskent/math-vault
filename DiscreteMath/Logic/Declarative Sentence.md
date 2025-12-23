@@ -1,0 +1,1 @@
+A **declarative sentence** is a sentence that declares something falsifiable.

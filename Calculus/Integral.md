@@ -1,0 +1,5 @@
+The continous sum of infinitesimal areas under a [[Function]], over a definite or indefinite range.
+
+$$
+\int^b_{a} f(x)\ dx = \lim_{ n \to \infty } \sum^n_{i=1} f(x_{i}) \Delta x_{i}
+$$

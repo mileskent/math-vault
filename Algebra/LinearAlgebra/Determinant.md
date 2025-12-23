@@ -1,10 +1,12 @@
 Imagine the area of parallelogram created by the basis of a standard vector space, like $\mathbb{R}^2$. Now apply a linear transformation $A$ to that vector space. The new area of the new parallelogram has been scaled by a factor of the determinant.
 $S$ is the parallelopiped. 
 $$
-area(T(S)) = |det(A)| \cdot area(S)
+\text{area}(T(S)) = |\det(A)| \cdot \text{area}(S)
 $$
 You can also just think of it as the area of the parallelogram spanned by the columns of a matrix
-R^3 and beyond -> parallelopiped and volume
+
+$\mathbb{R}^3$: parallelopiped and volume
+
 (assume n by n matrix because we only know how to find determinants for square matrices)
 
 You can also get the area of S by using the determinant of the matrix created by the vectors that span S, i.e.

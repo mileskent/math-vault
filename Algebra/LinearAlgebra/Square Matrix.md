@@ -1,0 +1,1 @@
+A [[Matrix]] with an equal amount of rows and columns.

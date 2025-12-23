@@ -1,0 +1,1 @@
+A [[Morphism]] that preserves operational properties.

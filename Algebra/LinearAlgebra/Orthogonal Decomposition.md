@@ -1,4 +1,4 @@
-I proceed to define the orthogonal decomposition for some vector $y$, where $y \in \mathbb{R}^n$, where $W$ is a subspace of $\mathbb{R}^n$, where $W^{\perp}$ is the [[Orthogonal Complement]] of $W$, where $\hat{y}$ is the orthogonal projection of $\vec{y}$ onto $W$, and $\vec{z}$ is a vector orthogonal to $\hat{y}$
+I proceed to define the orthogonal decomposition for some vector $y$, where $y \in \mathbb{R}^n$, where $W$ is a subspace of $\mathbb{R}^n$, where $W^{\perp}$ is the [[Orthogonal Complement]] of $W$, where $\hat{y}$ is the orthogonal projection of $\vec{y}$ onto $W$, and $\vec{z}$ is a vector orthogonal to $\hat{y}$. This is a [[Vector Decomposition]].
 $$
 y = (\hat{y} \in W) + (\vec{z} \in W^{\perp})
 $$

@@ -1,3 +1,3 @@
 $$
-e^{kit} = \cos(kt) - i \sin(kt)
+e^{i \phi t} = \cos(\phi t) - i \sin(\phi t)
 $$

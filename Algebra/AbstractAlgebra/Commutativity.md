@@ -1,0 +1,1 @@
+$$\forall A, B \in G,\ AB = BA$$

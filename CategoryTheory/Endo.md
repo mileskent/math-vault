@@ -1,1 +1,1 @@
-Having identical [[Domain]] and [[Codomain]]
+Having identical [[Domain]] and [[Codomain]]. Greek for "within".

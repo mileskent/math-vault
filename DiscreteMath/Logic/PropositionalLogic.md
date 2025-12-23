@@ -1,7 +1,8 @@
 # Propositional Logic
 
-A **proposition** is a declarative sentence that is either true or false, but not both
-A **declarative sentence** is a sentence that declares something verifiable
+![[Proposition]]
+
+![[Declarative Sentence]]
 
 Examples:
 > 7 - 4 = 3

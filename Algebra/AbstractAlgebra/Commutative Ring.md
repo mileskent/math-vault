@@ -1,0 +1,1 @@
+A [[Ring]] in which multiplication has [[Commutativity]]

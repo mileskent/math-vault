@@ -1,0 +1,1 @@
+Like a [[Vector Field]] by each point in [[Space]] has a 1D value instead of multidimensional vector value, e.g. the temperature at a location in a room.
