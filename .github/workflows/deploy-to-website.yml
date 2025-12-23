@@ -19,6 +19,7 @@ jobs:
         with:
           source: ./
           page_title: "Math Notes"
+          quartz_config: .github/quartz/quartz.config.ts
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
   deploy:
