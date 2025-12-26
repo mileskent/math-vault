@@ -1,0 +1,1 @@
+[[Isomorphism]] for [[Metric Space]]s, in [[Geometry]].

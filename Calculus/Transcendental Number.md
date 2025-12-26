@@ -1,0 +1,1 @@
+A [[Number]] that "transcends" the basic operations of [[Algebra]], i.e. that is not an [[Algebraic Number]], but instead can only be reached via a [[Transcendental Function]].

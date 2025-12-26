@@ -1,0 +1,1 @@
+An [[Equation]] that includes a [[Transcendental Function]]. It is *not* an [[Algebraic Equation]].

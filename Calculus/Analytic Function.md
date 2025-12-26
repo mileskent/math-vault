@@ -1,0 +1,1 @@
+A [[Function]] that can be locally represented by a [[Convergent]] [[Power Series]].

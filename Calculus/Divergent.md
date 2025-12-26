@@ -1,0 +1,1 @@
+When a [[Series]]' sum blows up; it is not [[Convergent]].

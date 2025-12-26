@@ -1,0 +1,1 @@
+A [[Set]] where there is a notion of distance between its elements.

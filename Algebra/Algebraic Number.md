@@ -1,0 +1,1 @@
+A [[Number]] reachable via [[Algebra]].

@@ -1,0 +1,1 @@
+A [[Topological Space]] that locally resembles [[Euclidean Space]]; an n-dimensional manifold in which every point has a [[Neighborhood]] [[Homeomorphism|Homeomorphic]] to an [[Region#Open]] [[Subset]] of n-dimension [[Euclidean Space]].
