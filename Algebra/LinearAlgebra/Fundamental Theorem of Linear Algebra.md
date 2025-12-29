@@ -1,6 +1,6 @@
 ---
 aliases:
-  - Fundamental Theorem of Linear Algebra
+  - Rank-Nullity Theorem
 date: 2024-12-08
 ---
 

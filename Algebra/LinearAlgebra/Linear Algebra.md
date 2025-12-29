@@ -7,6 +7,38 @@ Linear Algebra is the study of [[Vector Space|Vector Spaces]]
 ![[Vector Space]]
 
 ![[Vector]]
+
+## Subspaces of $\mathbb{R}^n$
+![[Subspace]]
+
+![[Columnspace]]
+
+![[Rowspace]]
+
+![[Nullspace]]
+
+![[Basis]]
+
+![[Rank]]
+
+![[Nullity]]
+
+![[Fundamental Theorem of Linear Algebra]]
+
+![[Invertibility Theorem]]
+
+![[Determinant]]
+
+![[Cofactor Expansion]]
+
+![[Eigenstuff]]
+
+
+
+![[Characteristic Equation]]
+
+![[Similar]]
+
 # Systems of Linear Equations
 ![[Linear System]]
 
@@ -69,37 +101,6 @@ $$
 ![[Block Matrix]]
 
 ![[LU Decomposition]]
-## Subspaces of $\mathbb{R}^n$
-![[Subspace]]
-
-![[Columnspace]]
-
-![[Rowspace]]
-
-![[Nullspace]]
-
-![[Basis]]
-
-![[Rank]]
-
-![[Nullity]]
-
-![[Rank-Nullity Theorem]]
-
-![[Invertibility Theorem]]
-
-![[Determinant]]
-
-![[Cofactor Expansion]]
-
-![[Eigenstuff]]
-
-
-
-![[Characteristic Equation]]
-
-![[Similar]]
-
 # Markov chains
 ![[Pasted image 20241002094128.png|500]]
 

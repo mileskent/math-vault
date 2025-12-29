@@ -1,5 +1,7 @@
 ---
 date: 2024-12-08
+aliases:
+  - Kernel
 ---
 
 The [[Subspace]] defined by the [[Set]] of $\vec{x}$ that satisfy $A\vec{x} = \vec{0}$
