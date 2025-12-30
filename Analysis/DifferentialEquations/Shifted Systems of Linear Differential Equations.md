@@ -68,6 +68,6 @@ Solution is $\vec{x}(t) = \vec{a} + \vec{y}(t)$
 ## Type 2
 $\vec{x}'=A\vec{x} + \vec{b}$, where A is a constant square matrix, $\vec{b}$ is a constant vector
  Essentially, convert into [[#Type 1]] by finding an equilibrium $\vec{a}$ by solving $A \vec{x} + \vec{b} = \vec{0}$ for $\vec{x}$.
- If no equilbrium exists, you must use [[Calculus/DifferentialEquations/Variation of Parameters]] instead. 
+ If no equilbrium exists, you must use [[Variation of Parameters]] instead. 
 Transient solution $\vec{y} = \vec{x} - \vec{a}$ that satisfies $\vec{y}' = A \vec{y}$, solve for $\vec{y}(t)$. See [[2D Homogeneous Linear Systems with Constant Coefficients]]
 Solution is $\vec{x}(t) = \vec{a} + \vec{y}(t)$

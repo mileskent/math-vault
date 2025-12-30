@@ -1,0 +1,1 @@
+A step-by-step procedure for solving a problem.

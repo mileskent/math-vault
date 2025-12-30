@@ -1,0 +1,1 @@
+[[Analysis]] under the [[Set]] of [[Real Number|Real Numbers]]. Basically, rigorous [[Calculus]].

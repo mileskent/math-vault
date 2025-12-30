@@ -1,6 +1,7 @@
 ---
 date: 2025-10-15
 ---
+[[Numerical Analysis|Numerical]] methods for [[Differential Equation]]s.
 # [[Euler's Method]]
 $$
 y' = f(t, y),\ y(t_{0}) = y_{0}
