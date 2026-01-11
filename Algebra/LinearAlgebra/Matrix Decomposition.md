@@ -1,7 +1,7 @@
 ---
 aliases:
   - Matrix Factorization
-date: 2024-12-8
+date: 2026-01-11
 ---
 
 A method where a [[Matrix]] is decomposed into an equivalent product of matrices.

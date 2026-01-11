@@ -1,3 +1,6 @@
+---
+date: 2026-01-11
+---
 A [[Function]] 
 $$
 f : U \subset \mathbb{C} \rightarrow \mathbb{C}

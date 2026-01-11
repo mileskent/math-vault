@@ -1,3 +1,6 @@
+---
+date: 2026-01-11
+---
 The Fibonacci sequence is a series of numbers where each number is the sum of the two preceding ones. It usually starts with 0 and 1.
 
 0, 1, 1, 2, 3, 5, 8, 13, 21, ...

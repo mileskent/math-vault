@@ -1,3 +1,6 @@
+---
+date: 2026-01-11
+---
 ![[Pasted image 20251225190208.png|200]]
 An infinite [[Series]] representing a [[Function]], expressed in terms of the function's derivatives at a single point. It allows complex functions to be approximated by [[Polynomial]]s.
 

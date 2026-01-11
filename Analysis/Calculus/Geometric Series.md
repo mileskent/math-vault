@@ -1,3 +1,6 @@
+---
+date: 2026-01-11
+---
 A sum of the terms of a geometric [[Sequence]], which is a list of [[Number]]s where each term is found by multiplying the previous term by a constant called the "Common Ratio", denoted by $r$.
 
 If the first term $a_{1}$ and the common ratio $r$ are known, the sum $S_{n}$ of the first $n$ terms is the following:

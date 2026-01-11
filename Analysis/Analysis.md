@@ -1,3 +1,6 @@
+---
+date: 2026-01-11
+---
 Analysis is the study of continous change. 
 
 Almost everything studied in analysis involves 

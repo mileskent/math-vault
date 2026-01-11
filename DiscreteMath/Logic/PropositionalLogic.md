@@ -687,52 +687,7 @@ $\square$
 Induction but you do $(P(1) \land P(2) \land ... P(k)) \implies P(k+1)$
 You can also be like $P(j)$ for $j \in$ domain such that $b <= j <= k$
 
-# Sets
-An *unordered* collection of distinct objects
-- Made of elements
-- Denoted by capital letters
-- $a\in A$ means the element $a$ is in the set
-- $a \not \in A$ means the element $a$ is not in the set
-- $A = \{1, 2, 3, 4\}$
-Note: Before performing operations, reduce your sets so they contain no duplicates!!!
-### Set Builder Notation
-- All positive even integers less than a thousand
-	- $\{x \mid x \in \mathbb{Z}^{+} \land \text{x is even } \land x < 1000\}$
-### Relevant Sets
-- $\mathbb{N} = \{0, 1, 2, 3, ...\}$ 
-- $\mathbb{Z} = \{..., -1, 0, -1, ...\}$ 
-- $\mathbb{Q} = \{\frac{p}{q} \mid p,q \in \mathbb{Z} \land q \not = 0\}$
-- $\mathbb{R} = \{..., -1.223, 0, 2, ...\}$ 
-
-Note: $\{\mathbb{N}, \mathbb{R}, \mathbb{C}\}$ has only 3 elements, even though each element itself is an infinite set, and even though they overlap with one another. "A list of lists"
-
-### Equal set
-- $A = B$
-- $(A=B) \iff \forall x (x \in A \iff x \in B)$
-- $(A \subseteq B \land B \subseteq A) \iff A = B$
-### Empty Set
-$\varnothing = \{\}$ contains nothing
-note $\varnothing \not = \{\varnothing\}$
-### Singleton
-A set with one element
-note: $1 \not = \{1\}$
-### Venn Diagrams
-There is a universe set $U$, usually represented by a rectangle.
-
-### Subset
-- A is a subset of B
-	- $A \subseteq B$
-	- Could be equal
-- A is a proper subset of B
-	- $A \subset B$
-	- Cannot be equal
-
-### Superset
-Exist, but we don't really use the notation. Like how $<, >, \geq, \leq$ works
-$B \supseteq A$
-$B \supset A$
-
-
+![[Set Theory]]
 # Functions
 - Definition 1: Let A and B be nonempty sets. A function f from A to B is an assignment of exactly one element of B to each element of A. We write f (a) = b if b is the unique element of B assigned by the function f to the element a of A. If f is a function from A to B, we write f : A → B.
 - Definition 2: If f is a function from A to B, we say that A is the domain of f and B is the codomain of f. If f (a) = b, we say that b is the image of a and a is a preimage of b. The range, or image, of f is the set of all images of elements of A. Also, if f is a function from A to B, we say that f maps A to B.

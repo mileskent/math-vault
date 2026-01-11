@@ -1,5 +1,5 @@
 ---
-date: 2024-12-8
+date: 2026-01-11
 ---
 
 If A is an $m \times n$ [[Matrix]] that can be [[Row Reduction|row reduced]] to [[Echelon Form]]

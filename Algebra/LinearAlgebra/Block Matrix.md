@@ -1,5 +1,5 @@
 ---
-date: 2024-12-8
+date: 2026-01-11
 ---
 
 A [[Matrix]] that you write as a matrix of matrices

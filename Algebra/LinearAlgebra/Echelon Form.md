@@ -1,5 +1,5 @@
 ---
-date: 2023-12-2
+date: 2026-01-11
 ---
 
 A rectangular matrix is in **echelon form** if 

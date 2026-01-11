@@ -1,3 +1,6 @@
+---
+date: 2026-01-11
+---
 A sum of a [[Sequence]].
 * [[Arithmetic Series]]
 * [[Geometric Series]]

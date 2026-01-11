@@ -1,5 +1,5 @@
 ---
-date: 2023-12-2
+date: 2026-01-11
 ---
 
 Measures the alignment of its operand vectors on a scale of 0 to 1

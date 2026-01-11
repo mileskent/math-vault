@@ -1,5 +1,7 @@
 ---
 date: 2024-12-01
 ---
-
-The count of unique elements in a [[Set]]
+The quantity of unique elements in a [[Set]].
+$$
+|A| = \text{\# unique elements in } A
+$$

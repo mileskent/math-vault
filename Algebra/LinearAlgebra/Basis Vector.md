@@ -1,5 +1,5 @@
 ---
-date: 2024-12-8
+date: 2026-01-11
 ---
 
 A [[Vector]] that an element of a [[Basis]] for a [[Vector Space]], which is a [[Set]] of [[Linear Independence|Linearly Indepedent]] whose [[Linear Combination]]s can represent any vector in that space.

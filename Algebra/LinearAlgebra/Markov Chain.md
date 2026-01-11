@@ -1,5 +1,5 @@
 ---
-date: 2024-12-8
+date: 2026-01-11
 ---
 
 A Markov chain is a sequence of [[Probability Vector]]s, and a [[Stochastic Matrix]] P , such that:

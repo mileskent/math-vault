@@ -1,5 +1,5 @@
 ---
-date: 2024-12-8
+date: 2026-01-11
 ---
 
 Let $c_i \in \mathbb{R} \land \vec{v}_i \in \mathbb{R}^{>=1}$

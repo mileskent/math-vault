@@ -1,5 +1,5 @@
 ---
-date: 2024-12-8
+date: 2026-01-11
 ---
 
 The [[Subspace]] defined by the [[Span]] of the columns of [[Matrix]] $A$

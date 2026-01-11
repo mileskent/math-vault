@@ -27,3 +27,26 @@ img {
 .markdown-source-view.mod-cm6 .cm-content > * {
     margin: auto auto !important;
 }
+
+
+/* TABLE SETTINGS */
+/* remove ugly padding */
+.cm-line:has(+ .cm-embed-block.cm-table-widget) br {
+    display: none;
+}
+
+.markdown-source-view.mod-cm6 .cm-embed-block.cm-table-widget {
+    margin-left: 0 !important;
+    padding-left: 0 !important;
+    width: 100% !important;
+}
+
+.markdown-source-view.mod-cm6 .cm-table-widget > .markdown-rendered table {
+    margin-left: 0 !important;
+    margin-right: auto !important;
+}
+
+table {
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.05);
+}
+

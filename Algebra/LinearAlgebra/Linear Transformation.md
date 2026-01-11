@@ -2,7 +2,7 @@
 aliases:
   - Linear Map
   - Linear Mapping
-date: 2024-12-8
+date: 2026-01-11
 ---
 
 A Linear transformation is a [[Transformation]]  where $T: \mathbb{R}^n \rightarrow \mathbb{R}^m, T(\vec{v}) = A \vec{v}$

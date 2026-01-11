@@ -1,5 +1,5 @@
 ---
-date: 2024-12-8
+date: 2026-01-11
 ---
 
 The dimension of a [[Subspace]] $H$ is the [[Cardinality]] of its [[Basis]] $\mathcal{B}$

@@ -1,5 +1,5 @@
 ---
-date: 2024-12-8
+date: 2026-01-11
 ---
 
 $A \in \mathbb{R}^{n \times n} \land A = PDP^{-1} \implies A$ is diagonalizable, where $D$ is a diagonal matrix

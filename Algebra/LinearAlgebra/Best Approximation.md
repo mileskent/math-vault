@@ -1,5 +1,5 @@
 ---
-date: 2024-12-8
+date: 2026-01-11
 ---
 
 $W$ is a subspace of $\mathbb{R}^n$, $\vec{y} \in \mathbb{R}^n$, $\hat{y} = proj_{W} \vec{y}$

@@ -1,5 +1,5 @@
 ---
-date: 2024-12-8
+date: 2026-01-11
 ---
 
 Let $X$ be a set of vectors that form a basis for subspace $W$ of $\mathbb{R}^n$,

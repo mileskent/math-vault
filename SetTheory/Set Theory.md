@@ -1,1 +1,34 @@
+---
+date: 2026-01-11
+---
 The study of [[Set]]s, which are collections of distinct objects.
+# Fundamentals
+![[Set]]
+
+![[Subset]]
+
+![[Superset]]
+
+![[Set Builder Notation]]
+
+![[Universe]]
+
+![[Venn Diagram]]
+
+![[Principle of Inclusion-Exclusion]]
+# Numbers
+![[Number]]
+
+# Functions
+![[Function]]
+
+![[Domain]]
+
+![[Codomain]]
+
+![[Injective]]
+
+![[Surjective]]
+
+![[Bijective]]
+
