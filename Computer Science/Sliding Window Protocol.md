@@ -1,0 +1,7 @@
+---
+date: 2025-01-07
+---
+Sliding Window Protocol allows sending multiple [[Packet]]s before receiving acknowledgments.
+![[Pasted image 20251113135515.png|500]]
+The maroon packets can be sent in arbitrary order. Therein lies the optimization.
+See [here](https://www.geeksforgeeks.org/computer-networks/sliding-window-protocol-set-2-receiver-side/)

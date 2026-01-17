@@ -1,0 +1,5 @@
+---
+date: 2025-01-07
+---
+
+An **arena** **is** just a large, contiguous piece of **memory** that you allocate once and then use to manage **memory** manually by handing out parts of that **memory**.

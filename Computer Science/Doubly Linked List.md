@@ -1,0 +1,4 @@
+---
+date: 2025-01-07
+---
+[[Singly Linked List]] except the nodes are holding hands, so the items can be traversed in either order.

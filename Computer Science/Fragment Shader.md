@@ -1,0 +1,4 @@
+---
+date: 2025-01-07
+---
+A [[Shader]] that works on the colors of fragments (essentially pixels). A fragment i s a unit of rendering.

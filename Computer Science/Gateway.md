@@ -1,0 +1,4 @@
+---
+date: 2025-01-07
+---
+a gateway is a component that is part of two [[Network]]s, which use different [[Network Protocol]]s. The gateway is a protocol converter which will translate one protocol into the other. A [[Router]] is a special case of a gateway.

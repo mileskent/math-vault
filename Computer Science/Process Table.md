@@ -1,0 +1,5 @@
+---
+date: 2025-01-07
+---
+The process table in is in the [[RAM]] of a computer. It holds information about the processes that are currently handled by the [[Operating System|OS]], e.g. [[Process ID|PID]]. Each process is stored in a [[Process Control Block|PCB]]. 
+You can have this part of memory read out and formatted with `ps aux`.

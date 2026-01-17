@@ -1,0 +1,4 @@
+---
+date: 2025-01-07
+---
+A data race occurs in programming when two or more threads access the same memory location simultaneously, and at least one of the accesses is a write operation, leading to unpredictable behavior. 

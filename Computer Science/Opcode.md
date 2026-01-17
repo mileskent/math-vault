@@ -1,0 +1,5 @@
+---
+date: 2025-01-07
+---
+"Operation Code"
+A binary value that corresponds to an operation to be performed.

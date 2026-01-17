@@ -1,0 +1,5 @@
+---
+date: 2025-01-07
+---
+Describes how [[Network Node|Node]]s are organized, how they communicate, and how resources are discovered and shared across the [[Network]]. 
+It defines the [[Logical Topology|logical structure]] AND interaction patterns among nodes rather than just the underlying [[Physical Topology|physical connections]].

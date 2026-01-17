@@ -1,0 +1,4 @@
+---
+date: 2025-01-07
+---
+The maximum working memory of an algorithm's execution as a [[Big O]] function, excluding the memory required for the input and output.

@@ -1,0 +1,1 @@
+The study of [[Mathematical Object|Object]]s and [[Mathematical Structure|Structure]]s, and proving their relationships.

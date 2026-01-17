@@ -1,0 +1,10 @@
+---
+date: 2025-01-07
+---
+## [string.h](https://cplusplus.com/reference/cstring/)
+[strcopy](https://cplusplus.com/reference/cstring/strcpy/)
+[strlen](https://cplusplus.com/reference/cstring/strlen/)
+## [stdio.h](https://cplusplus.com/reference/cstdio/)
+[printf](https://cplusplus.com/reference/cstdio/printf/)
+## [assert.h](https://cplusplus.com/reference/cassert/)
+[assert](https://cplusplus.com/reference/cassert/assert/)

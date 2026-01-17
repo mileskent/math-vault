@@ -1,0 +1,7 @@
+---
+date: 2025-01-07
+---
+![[Pasted image 20251123212821.png|400]]
+Central Processing Unit. 
+The primary processor for a computer. Capable of a wide range of serial tasks.
+Loves memoization/caching. Has a [[Control Unit]]. See [[Pipeline|Pipelining]]. 

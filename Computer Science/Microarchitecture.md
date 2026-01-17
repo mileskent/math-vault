@@ -1,0 +1,4 @@
+---
+date: 2025-01-07
+---
+The Microarchitecture is more concerned with the lower level implementation of how the instructions are going to be executed and deals with concepts like Instruction [[Pipeline|Pipelining]], Branch Prediction, Out of Order Execution, as opposed to an [[Instruction Set Architecture]]. Different processors can share the same ISA (e.g. Intel iX series all use x86) but have different underlying microarchitectures.

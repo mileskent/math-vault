@@ -1,0 +1,4 @@
+---
+date: 2025-01-07
+---
+[[Network Interface Device]] placed in a [[Demarcation Point]] to provide remote monitoring and other capabilities to a [[Service Provider]]

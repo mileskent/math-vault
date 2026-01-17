@@ -1,0 +1,4 @@
+---
+date: 2025-01-07
+---
+the consolidation of multiple digital signals into a single composite signal for transmission. Multiplexing is used with both [[Bounded Media]] and [[Unbounded Media]]. Fiber media uses [[Wavelength Division Multiplexing]].

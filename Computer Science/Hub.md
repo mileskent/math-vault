@@ -1,0 +1,5 @@
+---
+date: 2025-01-07
+---
+Hubs are legacy [[Networking Device]]s commonly used to connect segments of a [[Local Area Network|LAN]]. It contains multiple input/output ports. when signal is at any input port, this signal will be made at all output ports except the one it is coming from.
+[[Open Systems Interconnection Model#Physical Layer]]

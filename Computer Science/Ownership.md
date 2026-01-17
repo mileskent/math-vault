@@ -1,0 +1,4 @@
+---
+date: 2025-01-07
+---
+A scheme for [[Heap Allocation|Dynamic Memory]] managment where [[Heap]] memory is tied to the lifetime of the object that owns it. 

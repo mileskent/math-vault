@@ -1,0 +1,5 @@
+---
+date: 2025-01-07
+---
+Repeaters are a legacy [[Networking Device]] used in transmission systems to regenerate analog or digital signals distorted by transmission loss. Analog repeaters can only amplify the signal whereas a digital repeaters can reproduce a signal to near its original quality.
+[[Open Systems Interconnection Model#Physical Layer]]

@@ -1,0 +1,4 @@
+---
+date: 2025-01-07
+---
+Describes the way a sequence of binary data is interpretted, e.g. unsigned int vs. int vs. String could also be identical 32 bit binary string, but all represent different values (often).
