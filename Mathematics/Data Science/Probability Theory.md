@@ -31,18 +31,9 @@ $$
 In order to calculate probabilities, you usually need to determine the cardinality of the [[Event]] using [[Combinatorics]].
 
 ## Addition Rule
-A special case of [[#Disjoint Events]].
-$$
-\begin{align}
-A \cap B = \varnothing  
-&\implies |A \cup B| = |A| + |B|\\
-&\implies P(A \cup B) = P(A) + P(B)\\
-\end{align}
-$$
-
+![[Addition Rule]]
 ## Multiplication Rule
-If a process has sequential stages where stage i has $c_i$ paths to stage i+1, then the number of paths from $c_0$ to $c_{n-1}$ is $\prod_{i=0}^{n-1} c_{i}$
-
+![[Multiplication Rule]]
 
 ## Permutation
 ![[Permutation]]
@@ -52,3 +43,7 @@ If a process has sequential stages where stage i has $c_i$ paths to stage i+1, t
 
 # Probability Distribution
 ![[Probability Distribution]]
+
+# Conditional Probability
+
+![[Conditional Probability]]

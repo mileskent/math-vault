@@ -13,9 +13,11 @@ $$
 n^k
 $$
 # Multiset Permutation
+a.k.a *Multinomial Coefficients*
+
 The formula to find the number of distinct arrangements of a set of objects, some of which are indistinguishable
-where $n$ is the count of items
-where each $k_i$ is the number of repetitions of an object
+* where $n$ is the count of items
+* where each $k_i$ is the number of repetitions of an object
 $$
 \frac{n!}{k_{1}! \cdot k_{2}! \cdot\ \cdots\ \cdot k_{n}!} = \frac{\text{Orderings ignoring repeats}}{\text{Product of orderings of each repeated item}}
 $$
