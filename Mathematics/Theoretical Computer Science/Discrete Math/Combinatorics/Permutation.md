@@ -6,7 +6,7 @@ An arrangment of the order of a [[Set]]
 A permutation is an [[Isomorphism]] of a set
 # Partial Permutation
 $$
-P(n, k) = \frac{n!}{(n - k)!}
+P(n, k) = P_{n,k} = \frac{n!}{(n - k)!} = C(n,k) \cdot P(k,k)
 $$
 # Repetitious Permutation
 $$

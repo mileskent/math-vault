@@ -49,3 +49,6 @@ If a process has sequential stages where stage i has $c_i$ paths to stage i+1, t
 
 ## Combination
 ![[Combination]]
+
+# Probability Distribution
+![[Probability Distribution]]
