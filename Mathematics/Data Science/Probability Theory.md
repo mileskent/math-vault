@@ -27,6 +27,14 @@ $$
 ## Disjoint Events
 ![[Disjoint]]
 
+## Independent Events
+![[Independent]]
+
+# Law of Total Probability
+![[Law of Total Probability]]
+
+## Baye's Theorem
+![[Baye’s Theorem]]
 # Combinatorics with Probability
 In order to calculate probabilities, you usually need to determine the cardinality of the [[Event]] using [[Combinatorics]].
 
@@ -47,3 +55,4 @@ In order to calculate probabilities, you usually need to determine the cardinali
 # Conditional Probability
 
 ![[Conditional Probability]]
+

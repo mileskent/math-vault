@@ -16,3 +16,11 @@ P(A \mid B) =
 \frac{\frac{|A \cap B|}{|S|}}{\frac{|B|}{|S|}} = 
 \frac{|A \cap B|}{|B|}
 $$
+# Disjoint Events
+$$
+\text{djt(A,B)} \implies P(A | B) = \frac{0}{P(B)} = 0
+$$
+# Independent Events
+$$
+\text{djt(A,B)} \implies P(A | B) = \frac{P(A)P(B)}{P(B)} = P(A)
+$$
